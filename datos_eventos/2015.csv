@@ -1,0 +1,34 @@
+user,tipo_informe,num_informe,fecha_update,mes,region,provincia,comuna,tipo_alerta,num_cierre,fecha_cierre,alert_code,detalle
+JLN,Técnico,ATR,06/02/2015,Febrero,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,Técnico,ATR,06/02/2015,Febrero,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,Técnico,ATR,06/02/2015,Febrero,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,Técnico,ATR,06/02/2015,Febrero,Los Ríos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+AAO,ATR,***,01/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+AAO,ATR,***,01/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+AAO,ATR,***,01/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+AAO,ATR,***,01/03/2015,Marzo,Los Ríos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+CSC,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+CSC,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+CSC,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+CSC,ATR,***,03/03/2015,Marzo,Los Ríos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,ATR,***,03/03/2015,Marzo,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+JLN,ATR,***,03/03/2015,Marzo,Los Ríos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+AAO,Técnico,587-A,22/04/2015,Abril,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,3,Actividad volcánica Volcán Calbuco
+BCG,ATR,***,19/05/2015,Mayo,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,2,Actividad Volcán Calbuco
+BCG,ATR,***,19/05/2015,Mayo,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Calbuco
+CAG,ATR,***,19/05/2015,Mayo,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Chaitén
+JMC,Técnico,740-B,31/05/2015,Mayo,Arica y Parinacota,No value,No value,Actividad Volcánica,No value,No value,2,Actividad Volcán Guallatiri
+JMC,ATR,***,31/05/2015,Mayo,Arica y Parinacota,No value,No value,Actividad Volcánica,No value,No value,2,Actividad Volcán Guallatiri
+DNG,ATR,***,07/07/2015,Julio,Arica y Parinacota,No value,No value,Actividad Volcánica,No value,No value,2,Actividad Volcán Guallatiri
+JLN,ATR,***,18/08/2015,Agosto,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Calbuco
+JLN,ATR,***,18/08/2015,Agosto,Los Lagos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Calbuco
+DTL,ATR,***,30/10/2015,Octubre,Antofagasta,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Láscar
+BCG,ATR,***,16/11/2015,Noviembre,Antofagasta,No value,No value,Actividad Volcánica,No value,No value,1,Actividad Volcán Láscar
+BCG,ATR,***,01/12/2015,Diciembre,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+BCG,ATR,***,01/12/2015,Diciembre,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+BCG,ATR,***,01/12/2015,Diciembre,La Araucanía,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+BCG,ATR,***,01/12/2015,Diciembre,Los Ríos,No value,No value,Actividad Volcánica,No value,No value,1,Actividad volcánica
+NPR,Técnico,1102,31/12/2015,Diciembre,Biobío,No value,No value,Actividad Volcánica,No value,No value,1,Actividad complejo volcánico Nevados de Chillán
+NPR,Técnico,1102,31/12/2015,Diciembre,Biobío,No value,No value,Actividad Volcánica,No value,No value,1,Actividad complejo volcánico Nevados de Chillán

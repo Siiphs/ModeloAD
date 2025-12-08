@@ -1,0 +1,252 @@
+user,tipo_informe,num_informe,fecha_update,mes,region,provincia,comuna,tipo_alerta,num_cierre,fecha_cierre,alert_code,detalle
+BCG,Técnico,016,07/01/2016,Enero,Magallanes,No value,No value,Incendio forestal,016-A,11/01/2016,1,No value
+DNG,Técnico,028,10/01/2016,Enero,O'Higgins,No value,No value,Incendio forestal,028-A,11/01/2016,1,No value
+DTL,Técnico,033,13/01/2016,Enero,Metropolitana,No value,No value,Incendio forestal,033-A,16/01/2016,1,No value
+DTL,Técnico,044-A,15/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,044-C,19/01/2016,1,No value
+DTL,Técnico,045-A,15/01/2016,Enero,O'Higgins,No value,No value,Incendio forestal,045-C,16/01/2016,1,No value
+DTL,Técnico,051,15/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,051-A,16/01/2016,1,No value
+DTL,Técnico,063,17/01/2016,Enero,O'Higgins,No value,No value,Incendio forestal,063-A,19/01/2016,2,No value
+DNG,Técnico,069,20/01/2016,Enero,Maule,No value,No value,Incendio forestal,069-A,21/01/2016,1,No value
+DNG,Técnico,070,20/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,070-A,20/01/2016,1,No value
+DNG,Técnico,071,20/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,071-B,21/01/2016,1,No value
+DNG,Técnico,072,20/01/2016,Enero,Aysén,No value,No value,Incendio forestal,72-D,08/02/2016,1,No value
+DNG,Técnico,073,20/01/2016,Enero,Maule,No value,No value,Incendio forestal,073-B,21/01/2016,1,No value
+DNG,Técnico,076-A,21/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,076-C,22/01/2016,1,No value
+DNG,Técnico,076-A,21/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,076-C,22/01/2016,1,No value
+DNG,Técnico,083-A,22/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,083-B,22/01/2016,1,No value
+NPR,Técnico,098,27/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,098-B,27/01/2016,1,No value
+NPR,Técnico,099,27/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,099-B,29/01/2016,1,No value
+NPR,Técnico,112,28/01/2016,Enero,Metropolitana,No value,No value,Incendio forestal,112-A,28/01/2016,1,No value
+BCG,Técnico,124,30/01/2016,Enero,Valparaíso,No value,No value,Incendio forestal,124-A,30/01/2016,1,No value
+JVB,Técnico,129-C,01/02/2016,Febrero,La Araucanía,No value,No value,Incendio forestal,129-F,04/02/2016,1,No value
+JVB,Técnico,129-C,01/02/2016,Febrero,La Araucanía,No value,No value,Incendio forestal,129-F,04/02/2016,1,No value
+JVB,Técnico,136-A,02/02/2016,Febrero,Magallanes,No value,No value,Incendio forestal,136-B,03/02/2016,2,No value
+VMT,Técnico,147,04/02/2016,Febrero,Los Lagos,No value,No value,Incendio forestal,147-A,29/03/2016,1,No value
+JVB,Técnico,159,06/02/2016,Febrero,Los Lagos,No value,No value,Incendio forestal,159-B,12/02/2016,1,No value
+NPR,Técnico,160,06/02/2016,Febrero,Los Lagos,No value,No value,Incendio forestal,160-A,20/02/2016,1,No value
+VMT,Técnico,170,09/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,170-A,10/02/2016,1,No value
+VMT,Técnico,172,09/02/2016,Febrero,La Araucanía,No value,No value,Incendio forestal,172-A,11/02/2016,1,No value
+VMT,Técnico,177-A,10/02/2016,Febrero,Aysén,No value,No value,Incendio forestal,177-B,15/02/2016,1,No value
+VMT,Técnico,165-A,10/02/2016,Febrero,Los Lagos,No value,No value,Incendio forestal,165-B,12/02/2016,1,No value
+VMT,Técnico,183,11/02/2016,Febrero,Aysén,No value,No value,Incendio forestal,183-A,18/02/2016,1,No value
+VMT,Técnico,184,11/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,184-B,15/02/2016,1,No value
+DNG,Técnico,187,13/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,187-A,13/02/2016,1,No value
+BCG,Técnico,192-A,14/02/2016,Febrero,O'Higgins,No value,No value,Incendio forestal,192-E,19/02/2016,1,No value
+DNG,Técnico,198,15/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,198-B,16/02/2016,1,No value
+VMT,Técnico,200,16/02/2016,Febrero,Maule,No value,No value,Incendio forestal,200-A,16/02/2016,1,No value
+DNG,Técnico,201,16/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,201-A,16/02/2016,1,No value
+DNG,Técnico,209,17/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,209-A,17/02/2016,1,No value
+DNG,Técnico,209,17/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,209-A,17/02/2016,1,No value
+VMT,Técnico,211-A,18/02/2016,Febrero,Maule,No value,No value,Incendio forestal,211-B,18/02/2016,1,No value
+VMT,Técnico,215,18/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,215-C,20/02/2016,1,No value
+VMT,Técnico,215,18/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,215-C,20/02/2016,1,No value
+DNG,Técnico,219,19/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,219-A,19/02/2016,1,No value
+VMT,Técnico,224-A,19/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,224-D,21/02/2016,1,No value
+VMT,Técnico,231,21/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,231-A,21/02/2016,1,No value
+DNG,Técnico,240,23/02/2016,Febrero,Biobío,No value,No value,Incendio forestal,240-A,23/02/2016,1,No value
+DNG,Técnico,243,23/02/2016,Febrero,Biobío,No value,No value,Incendio forestal,243-B,25/02/2016,1,No value
+DNG,Técnico,247,24/02/2016,Febrero,O'Higgins,No value,No value,Incendio forestal,247-A,24/02/2016,1,No value
+DNG,Técnico,248,24/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,248-A,25/02/2016,1,No value
+BCG,Técnico,264,28/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,264-A,29/02/2016,1,No value
+BCG,Técnico,266,28/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,266-A,02/03/2016,1,No value
+BCG,Técnico,265,28/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,265-A,29/02/2016,1,No value
+JVB,Técnico,268,28/02/2016,Febrero,Biobío,No value,No value,Incendio forestal,268-A,29/02/2016,1,No value
+NPR,Técnico,269-A,29/02/2016,Febrero,Valparaíso,No value,No value,Incendio forestal,269-E,03/03/2016,1,No value
+NPR,Técnico,271,29/02/2016,Febrero,Metropolitana,No value,No value,Incendio forestal,271-B,01/03/2016,1,No value
+NPR,Técnico,275,01/03/2016,Marzo,Metropolitana,No value,No value,Incendio forestal,275-B,03/03/2016,1,No value
+NPR,Técnico,271-B,01/03/2016,Marzo,Metropolitana,No value,No value,Incendio forestal,271-D,03/03/2016,2,No value
+NPR,Técnico,287,03/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,287-A,06/03/2016,1,No value
+DNG,Técnico,295,06/03/2016,Marzo,Aysén,No value,No value,Incendio forestal,295-F,12/03/2016,1,No value
+BCG,Técnico,160-B,06/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,160-C,09/03/2016,1,No value
+BCG,Técnico,305,09/03/2016,Marzo,Valparaíso,No value,No value,Incendio forestal,305-E,12/03/2016,1,No value
+NPR,Técnico,312,10/03/2016,Marzo,Valparaíso,No value,No value,Incendio forestal,312-A,11/03/2016,1,No value
+BCG,Técnico,314,11/03/2016,Marzo,Metropolitana,No value,No value,Incendio forestal,314-A,12/03/2016,1,No value
+NPR,Técnico,307-A,11/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,307-B,30/03/2016,1,No value
+BCG,Técnico,322,15/03/2016,Marzo,La Araucanía,No value,No value,Incendio forestal,322-A,17/03/2016,1,No value
+BCG,Técnico,336-A,18/03/2016,Marzo,Biobío,No value,No value,Incendio forestal,336-B,20/03/2016,2,No value
+BCG,Técnico,336-A,18/03/2016,Marzo,Biobío,No value,No value,Incendio forestal,336-B,20/03/2016,2,No value
+VMT,Técnico,336-B,20/03/2016,Marzo,Biobío,No value,No value,Incendio forestal,336-C,21/03/2016,1,No value
+JVB,Técnico,351,24/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,351-A,30/03/2016,1,No value
+VMT,Técnico,356,25/03/2016,Marzo,Los Ríos,No value,No value,Incendio forestal,356-D,27/03/2016,1,No value
+NPR,Técnico,359,26/03/2016,Marzo,Magallanes,No value,No value,Incendio forestal,359-A,27/03/2016,1,No value
+DNG,Técnico,147-C,29/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,147-D,30/03/2016,1,No value
+DNG,Técnico,363,29/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,363-A,30/03/2016,1,No value
+DNG,Técnico,363,29/03/2016,Marzo,Los Lagos,No value,No value,Incendio forestal,363-A,30/03/2016,1,No value
+BCG,Técnico,414-A,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-B,15/04/2016,1,No value
+BCG,Técnico,414-A,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-B,15/04/2016,1,No value
+BCG,Técnico,414-A,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-B,15/04/2016,1,No value
+NPR,Técnico,414-B,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-C,19/04/2016,1,No value
+NPR,Técnico,414-B,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-C,19/04/2016,1,No value
+NPR,Técnico,414-B,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-C,19/04/2016,1,No value
+NPR,Técnico,414-B,15/04/2016,Abril,O'Higgins,No value,No value,Evento Hidrometeorológico,414-C,19/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418,16/04/2016,Abril,Metropolitana,No value,No value,Interrupción de agua potable,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-A,16/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,1,No value
+JVB,Técnico,418-B,17/04/2016,Abril,Metropolitana,No value,No value,Núcleo frío en altura ,418-C,18/04/2016,3,No value
+BVB,Técnico,469-A,22/05/2016,Mayo,Los Ríos,No value,No value,Incendio forestal,469-C,23/05/2016,1,No value
+BVB,Técnico,475,26/05/2016,Mayo,Los Lagos,No value,No value,Incendio forestal,475-A,23/05/2016,1,No value
+VMT,Técnico,524,25/06/2016,Junio,Antofagasta,No value,No value,Evento Hidrometeorológico,524-A,25/06/2016,2,No value
+JVB,Técnico,700,20/09/2016,Septiembre,Valparaíso,No value,No value,Incendio forestal,700-D,21/09/2016,1,No value
+PTB,Técnico,710,26/09/2016,Septiembre,Metropolitana,No value,No value,Incendio forestal,710-D,30/09/2016,1,No value
+BVB,Técnico,727,05/10/2016,Octubre,Valparaíso,No value,No value,Incendio forestal,727-J,09/10/2016,1,No value
+BVB,Técnico,729,06/10/2016,Octubre,Valparaíso,No value,No value,Incendio forestal,729-A,07/10/2016,1,No value
+PTB,Técnico,736,09/10/2016,Octubre,Metropolitana,No value,No value,Incendio forestal,736-D,11/10/2016,1,No value
+VMT,Técnico,739,11/10/2016,Octubre,Valparaíso,No value,No value,Incendio forestal,739-B,11/10/2016,1,No value
+JVB,Técnico,766,20/10/2016,Octubre,Magallanes ,No value,No value,Incendio forestal,766-C,21/10/2016,2,No value
+NSP,Técnico,773,22/10/2016,Octubre,Valparaíso,No value,No value,Incendio forestal,773-B,22/10/2016,1,No value
+NSP,Técnico,781,25/10/2016,Octubre,Atacama,No value,No value,Incendio de pastizal,781-F,28/10/2016,1,No value
+NSP,Técnico,791,27/10/2016,Octubre,Los Lagos,No value,No value,Incendio forestal,791-C,29/10/2016,1,No value
+NSP,Técnico,799,01/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,799-A,01/11/2016,1,No value
+PTB,Técnico,805,02/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,805-E,02/11/2016,1,No value
+PTB,Técnico,806,02/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal y disminución de recursos para el combate,806-E,06/11/2016,2,No value
+PTB,Técnico,811,03/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,805-E,03/11/2016,1,No value
+PTB,Técnico,811,03/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,805-E,03/11/2016,1,No value
+PTB,Técnico,805-E,03/11/2016,Noviembre,Valparaíso,No value,No value,Simultaneidad de incendios forestales,805-F,03/11/2016,2,No value
+PTB,Técnico,805-F,03/11/2016,Noviembre,Valparaíso,No value,No value,Simultaneidad de incendios forestales,814,03/11/2016,2,No value
+PTB,Técnico,805-F,03/11/2016,Noviembre,Valparaíso,No value,No value,Simultaneidad de incendios forestales,814,03/11/2016,2,No value
+PTB,Técnico,813,03/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,814,03/11/2016,1,No value
+JVB,Técnico,814,03/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,814-A,05/11/2016,3,No value
+PTB,Técnico,819,04/11/2016,Noviembre,Metropolitana,No value,No value,Incendios forestales,819-B,06/11/2016,2,No value
+JVB,Técnico,814-C,06/11/2016,Noviembre,Valparaíso,No value,No value,Simultaneidad de incendios forestales,814-E,06/11/2016,1,No value
+JVB,Técnico,814-C,06/11/2016,Noviembre,Valparaíso,No value,No value,Simultaneidad de incendios forestales,814-E,06-11:2016,1,No value
+JVB,Técnico,830-B,07/11/2016,Noviembre,Aysén,No value,No value,Incendio con sustancias químicas,830-C,07/11/2016,1,No value
+PTB,Técnico,831,07/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,831-B,07/11/2016,1,No value
+VMT,Técnico,836,08/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,849,11/11/2016,3,No value
+VMT,Técnico,839,09/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,839-B,09/11/2016,1,No value
+VMT,Técnico,843,10/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,849,11/11/2016,1,No value
+VMT,Técnico,844,10/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,844-B,10/11/2016,1,No value
+PTB,Técnico,848,11/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,849,11/11/2016,1,No value
+VMT,Técnico,850,11/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,850-E,14/11/2016,1,No value
+VMT,Técnico,852,12/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,852-D,14/11/2016,1,No value
+VMT,Técnico,854,12/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,854-B,16/11/2016,1,No value
+VMT,Técnico,855,12/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,855-D,17/11/2016,1,No value
+VMT,Técnico,858,13/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,858-H,19/11/2016,1,No value
+JVB,Técnico,858-E,13/11/2016,Noviembre,Metropolitana,No value,No value,Incendio Forestal,858-H,19/11/2016,1,No value
+VMT,Técnico,870,16/11/2016,Noviembre,Maule,No value,No value,Incendio forestal,870-A,16/11/2016,1,No value
+VMT,Técnico,872,16/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,872-A,16/11/2016,1,No value
+VMT,Técnico,877-A,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,885,17/11/2016,1,No value
+VMT,Técnico,877-A,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,885,17/11/2016,1,No value
+VMT,Técnico,878-A,17/11/2016,Noviembre,O'Higgins,No value,No value,Incendio forestal,878-E,21/11/2016,1,No value
+VMT,Técnico,879,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,885,17/11/2016,1,No value
+VMT,Técnico,880,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,880-A,20/11/2016,1,No value
+VMT,Técnico,871-A,17/11/2016,Noviembre,Coquimbo,No value,No value,Incendio forestal,871-D,19/11/2016,1,No value
+VMT,Técnico,882,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,885,17/11/2016,1,No value
+VMT,Técnico,884,17-11-22016,Noviembre,Metropolitana,No value,No value,Incendio forestal,884-F,23/11/2016,1,No value
+VMT,Técnico,885,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendios forestales,885-C,20/11/2016,2,No value
+VMT,Técnico,885,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendios forestales,885-C,20/11/2016,2,No value
+VMT,Técnico,886,17/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,886-C,20/11/2016,1,No value
+VMT,Técnico,888,17/11/2016,Noviembre,Valparaíso,No value,No value,Incendios forestales,888-A,20/11/2016,2,No value
+VMT,Técnico,881-A,17/11/2016,Noviembre,O'Higgins,No value,No value,Incendio forestal,881-F,21/11/2016,1,No value
+VMT,Técnico,884-D,18/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,884-F,23/11/2016,1,No value
+VMT,Técnico,896,18/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,896-A,19/11/2016,1,No value
+VMT,Técnico,897,18/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,897-B,19/11/2016,1,No value
+VMT,Técnico,900,18/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,900-A,20/11/2016,1,No value
+JVB,Técnico,907,19/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,907-A,20/11/2016,1,No value
+JVB,Técnico,917-A,22/11/2016,Noviembre,O'Higgins,No value,No value,Incendio forestal,917-B,22/11/2016,1,No value
+JVB,Técnico,926-B,25/11/2016,Noviembre,O'Higgins,No value,No value,Incendio forestal,926-E,27/11/2016,1,No value
+NSP,Técnico,930-A,27/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,930-E,28/11/2016,1,No value
+NSP,Técnico,932,27/11/2016,Noviembre,Metropolitana,No value,No value,Incendio forestal,932-E,30/11/2016,1,No value
+NSP,Técnico,947,29/11/2016,Noviembre,Valparaíso,No value,No value,Incendio forestal,947-D,01/12/2016,1,No value
+NSP,Técnico,953-A,01/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,953-B,02/12/2016,1,No value
+NSP,Técnico,953-A,01/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,953-B,02/12/2016,1,No value
+NSP,Técnico,955,01/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,955-A,02/12/2016,1,No value
+NSP,Técnico,959,02/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,959-A,02/12/2016,1,No value
+PTB,Técnico,973-B,06/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,973-G,09/12/2016,1,No value
+PTB,Técnico,973-B,06/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,973-G,09/12/2016,1,No value
+PTB,Técnico,973-B,06/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,973-G,09/12/2016,1,No value
+PTB,Técnico,979,07/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,979-A,07/12/2016,1,No value
+VMT,Técnico,991,11/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,991-A,11/12/2016,1,No value
+NSP,Técnico,990-A,11/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,990-E,12/12/2016,1,No value
+NSP,Técnico,994,11/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,994-I,14/12/2016,1,No value
+PTB,Técnico,1000,12/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1000-A,12/12/2016,1,No value
+PTB,Técnico,1008,13/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,1006-A,13/12/2016,1,No value
+PTB,Técnico,1009,13/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1009-A,15/12/2016,1,No value
+PTB,Técnico,1011,13/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1011-A,14/12/2016,1,No value
+PTB,Técnico,1013,13/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,1006-A,13/12/2016,1,No value
+PTB,Técnico,1014,13/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1014-A,16/12/2016,1,No value
+PTB,Técnico,1006-A,13/12/2016,Diciembre,O'Higgins,No value,No value,Incendios forestales,1006-J,17/12/2016,2,No value
+PTB,Técnico,1016,13/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1016-B,13/12/2016,1,No value
+VMT,Técnico,1015-A,14/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1015-G,26/12/2016,1,No value
+NPR,Técnico,1021,14/12/2016,Diciembre,Maule,No value,No value,Incendio forestal,1021-A,19/12/2016,1,No value
+NPR,Técnico,1015-B,14/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1070,21/12/2016,1,No value
+PTB,Técnico,1023,14/12/2016,Diciembre,Maule,No value,No value,Incendio forestal,1023-A,19/12/2016,1,No value
+PTB,Técnico,1024,14/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1024-A,14/12/2016,1,No value
+PTB,Técnico,1025,14/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1025-B,16/12/2016,1,No value
+PTB,Técnico,1026,14/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1026-A,15/12/2016,1,No value
+PTB,Técnico,1027,14/12/2016,Diciembre,O'Higgins,No value,No value,Incendio forestal,1027-A,15/12/2016,1,No value
+NPR,Técnico,1032-A,15/12/2016,Diciembre,Biobío,No value,No value,Incendios forestales,1032-C,16/12/2016,2,No value
+JVB,Técnico,1034,15/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1034-A,21/12/2016,1,No value
+JVB,Técnico,1035-A,15/12/2016,Diciembre,Magallanes,No value,No value,Incendio forestal,1035-B,21/12/2016,1,No value
+JVB,Técnico,1038,15/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1038-A,16/12/2016,1,No value
+JVB,Técnico,1049,18/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1049-B,25/12/2016,1,No value
+JVB,Técnico,1051-A,18/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1070,21/12/2016,1,No value
+JVB,Técnico,1054,19/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1054-C,21/12/2016,1,No value
+JVB,Técnico,1055,19/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1055-A,19/12/2016,1,No value
+JVB,Técnico,1056,19/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1056-A,19/12/2016,1,No value
+PTB,Técnico,1060,19/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1060-A,20/12/2016,1,No value
+NSP,Técnico,1061,20/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1061-C,22/12/2016,1,No value
+NSP,Técnico,1062,20/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1062-A,20/12/2016,1,No value
+NSP,Técnico,1065,21/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1065-A,25/12/2016,1,No value
+NSP,Técnico,1066,21/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1066-A,21/12/2016,1,No value
+JVB,Técnico,1068,21/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1068-A,22/12/2016,1,No value
+JVB,Técnico,1069,21/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1069-A,23/12/2016,1,No value
+NSP,Técnico,1069,21/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1069-A,23/12/2016,1,No value
+JVB,Técnico,1070,21/12/2016,Diciembre,Valparaíso,No value,No value,Incendios forestales,1070-D,26/12/2016,2,No value
+JVB,Técnico,1076,22/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1076-A,22/12/2016,1,No value
+JVB,Técnico,1061-D,22/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1061-E,22/12/2016,1,No value
+JVB,Técnico,1069-A,23/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1069-B,24/12/2016,1,No value
+JVB,Técnico,1069-A,23/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1069-B,24/12/2016,1,No value
+JVB,Técnico,1080,23/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1080-B,26/12/2016,1,No value
+JVB,Técnico,1070-D,26/12/2016,Diciembre,Valparaíso,No value,No value,Incendio forestal,1070-E,27/12/2016,1,No value
+VMT,Técnico,1108,31/12/2016,Diciembre,Metropolitana,No value,No value,Incendio forestal,1108-A,31/12/2016,1,No value

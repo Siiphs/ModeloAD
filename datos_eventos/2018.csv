@@ -1,0 +1,724 @@
+user,tipo_informe,num_informe,fecha_update,mes,region,provincia,comuna,tipo_alerta,motivo_alerta,num_cierre,fecha_cierre,alert_code,detalle
+BCG,Técnico,004,02/01/2018,Enero,Los Lagos,No value,-,Meteorológica,Evento meterológico,004-A,05/01/2018,3,Evento meteorológico
+VMT,Técnico,005,02/01/2018,Enero,Valparaíso,No value,Hijuelas,Forestal,Incendio forestal,005-A,02/01/2018,1,Incendio forestal
+VMT,Técnico,006,02/01/2018,Enero,Coquimbo,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,006-A,09/01/2018,3,Alta probabiliad
+CBC,Técnico,005-A,02/01/2018,Enero,Valparaíso,No value,Hijuelas,Forestal,Incendio forestal,005-C,04/01/2018,1,Incendio forestal
+VMT,Técnico,009,03/01/2018,Enero,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,009-E,13/01/2018,1,Evento meteorológico
+VMT,Técnico,009,03/01/2018,Enero,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,009-E,13/01/2018,1,Evento meteorológico
+VMT,Técnico,009,03/01/2018,Enero,Antofagasta,No value,Calama,Meteorológica,Evento meterológico,009-E,13/01/2018,1,Evento meteorológico
+VMT,Técnico,009,03/01/2018,Enero,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,009-E,13/01/2018,1,Evento meteorológico
+VMT,Técnico,011,04/01/2018,Enero,Metropolitana,No value,Alhué,Forestal,Incendio forestal,011-A,05/01/2018,1,Incendio forestal
+VMT,Técnico,012,04/01/2018,Enero,Metropolitana,No value,Colina,Forestal,Incendio forestal,012-A,04/01/2018,1,Incendio forestal
+VMT,Técnico,013,04/01/2018,Enero,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,013-C,09/01/2018,1,Evento meteorológico
+VMT,Técnico,013,04/01/2018,Enero,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,013-C,09/01/2018,1,Evento meteorológico
+VMT,Técnico,013,04/01/2018,Enero,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,013-C,09/01/2018,1,Evento meteorológico
+VMT,Técnico,013,04/01/2018,Enero,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,013-C,09/01/2018,1,Evento meteorológico
+VMT,Técnico,014,04/01/2018,Enero,Valparaíso,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),014-B,07/01/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+VMT,Técnico,015,04/01/2018,Enero,O'Higgins,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),015-B,08/01/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+VMT,Técnico,016,04/01/2018,Enero,Metropolitana,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),016-C,07/01/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+VMT,Técnico,017,04/01/2018,Enero,La Araucanía,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),017-A,08/01/2018,2,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+BCG,ATR,***,05/01/2018,Enero,La Araucanía,No value,Villarrica,Volcánica,Actividad del Volcán Villarrica,Vigente,Vigente,1,Actividad Volcán Villarrica
+BCG,ATR,***,05/01/2018,Enero,La Araucanía,No value,Pucón,Volcánica,Actividad del Volcán Villarrica,Vigente,Vigente,1,Actividad Volcán Villarrica
+BCG,ATR,***,05/01/2018,Enero,La Araucanía,No value,Curarrehue,Volcánica,Actividad del Volcán Villarrica,Vigente,Vigente,1,Actividad Volcán Villarrica
+BCG,ATR,***,05/01/2018,Enero,Los Ríos,No value,Panguipulli,Volcánica,Actividad del Volcán Villarrica,Vigente,Vigente,1,Actividad Volcán Villarrica
+VMT,Técnico,022,05/01/2018,Enero,Maule,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),022-A,08/01/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+VMT,Técnico,023,05/01/2018,Enero,Biobío,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),095-A,28/01/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,La Higuera,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Vicuña,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Paihuano,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Río Hurtado,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Monte Patria,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Combarbalá,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CBC,Técnico,025,06/01/2018,Enero,Coquimbo,No value,Salamanca,Meteorológica,Evento meterológico,025-A,06/01/2018,1,Evento meteorológico
+CPL,Técnico,026,06/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,026-B,10/01/2018,2,Incendio forestal
+CPL,Técnico,027,06/01/2018,Enero,Biobío,No value,Portezuelo,Forestal,Incendio forestal,027-B,07/01/2018,1,Incendio forestal
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,La Higuera,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Vicuña,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Paihuano,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Río Hurtado,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Monte Patria,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Combarbalá,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,025-A,06/01/2018,Enero,Coquimbo,No value,Salamanca,Meteorológica,Evento meterológico,025-C,09/01/2018,1,Evento meteorológico
+CPL,Técnico,028,07/01/2018,Enero,Metropolitana,No value,-,Meteorológica,Evento meterológico,028-B,09/01/2018,1,Evento meteorológico
+CPL,Técnico,029,07/01/2018,Enero,Valparaíso,No value,-,Meteorológica,Evento meterológico,029-A,09/01/2018,2,Evento meteorológico
+CPL,Técnico,029,07/01/2018,Enero,Valparaíso,No value,-,Meteorológica,Evento meterológico,029-A,09/01/2018,2,Evento meteorológico
+CPL,Técnico,029,07/01/2018,Enero,Valparaíso,No value,Petorca,Meteorológica,Evento meterológico,029-A,09/01/2018,1,Evento meteorológico
+CPL,Técnico,029,07/01/2018,Enero,Valparaíso,No value,Cabildo,Meteorológica,Evento meterológico,029-A,09/01/2018,1,Evento meteorológico
+CPL,Técnico,030,07/01/2018,Enero,Magallanes,No value,-,Meteorológica,Evento meterológico,030-A,08/01/2018,2,Evento meteorológico
+CPL,Técnico,030,07/01/2018,Enero,Magallanes,No value,-,Meteorológica,Evento meterológico,030-A,08/01/2018,2,Evento meteorológico
+CPL,Técnico,031,07/01/2018,Enero,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,031-C,09/01/2018,1,Incendio forestal
+BCG,Técnico,017-A,08/01/2018,Enero,La Araucanía,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),017-E,06/02/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+CPL,Técnico,032,08/01/2018,Enero,Valparaíso,No value,San Antonio,Forestal,Incendio forestal,032-B,08/01/2018,1,Incendio forestal
+CPL,Técnico,035,08/01/2018,Enero,Tarapacá,No value,-,Meteorológica,Evento meterológico,035-A,13/01/2018,2,Evento meteorológico
+CPL,Técnico,031-C,09/01/2018,Enero,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,031-D,10/01/2018,1,Incendio forestal
+CPL,Técnico,041,10/01/2018,Enero,Metropolitana,No value,Melipilla,Forestal,Incendio forestal,041-A,11/01/2018,1,Incendio forestal
+CPL,Técnico,042,10/01/2018,Enero,Metropolitana,No value,San José de Maipo,Meteorológica,Evento meterológico,042-B,15/01/2018,1,Evento meteorológico
+CPL,Técnico,043,10/01/2018,Enero,Valparaíso,No value,Casablanca,Forestal,Incendio forestal,043-B,10/01/2018,1,Incendio forestal
+CPL,Técnico,043,10/01/2018,Enero,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,043-B,10/02/2018,1,Incendio forestal
+NSP,Técnico,044,12/01/2018,Enero,Antofagasta,No value,-,Otras alertas,Evento masivo,044-A,21/01/2018,3,Evento masivo
+CPL,Técnico,045,12/01/2018,Enero,Coquimbo,No value,-,Otras alertas,Evento masivo,045-A,18/01/2018,3,Evento masivo
+PTB,Técnico,046,13/01/2018,Enero,La Araucanía,No value,-,Otras alertas,Evento masivo,046-A,18/01/2018,3,Evento masivo
+PTB,Técnico,048,14/01/2018,Enero,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,048-B,19/01/2018,1,Evento meteorológico
+PTB,Técnico,048,14/01/2018,Enero,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,048-B,19/01/2018,1,Evento meteorológico
+PTB,Técnico,048,14/01/2018,Enero,Antofagasta,No value,Calama,Meteorológica,Evento meterológico,048-B,19/01/2018,1,Evento meteorológico
+PTB,Técnico,048,14/01/2018,Enero,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,048-B,19/01/2018,1,Evento meteorológico
+NSP,Técnico,050,15/01/2018,Enero,Metropolitana,No value,-,Otras alertas,Evento masivo,050-A,18/01/2018,3,Evento masivo
+BCG,Técnico,051,15/01/2018,Enero,Tarapacá,No value,-,Otras alertas,Evento masivo,051-A,19/01/2018,3,Evento masivo
+PTB,Técnico,055,16/01/2018,Enero,Arica y Parinacota,No value,-,Otras alertas,Evento masivo,055-A,19/01/2018,3,Evento masivo
+PTB,ATR,***,16/01/2018,Enero,Arica y Parinacota,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Tarapacá,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Antofagasta,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Atacama,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Coquimbo,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Valparaíso,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,O'Higgins,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Maule,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,ATR,***,16/01/2018,Enero,Biobío,No value,Borde costero ,Marejadas,Marejadas anormales,***,23/01/2018,1,Marejadas anormales
+PTB,Técnico,056,17/01/2018,Enero,Metropolitana,No value,Melipilla,Forestal,Incendio forestal,056-C,18/01/2018,1,Incendio forestal
+PTB,Técnico,057,17/01/2018,Enero,Metropolitana,No value,San Pedro,Forestal,Incendio forestal,057-A,17/01/2018,1,Incendio forestal
+PTB,Técnico,058,17/01/2018,Enero,Metropolitana,No value,Paine,Forestal,Incendio forestal,058-B,18/01/2018,1,Incendio forestal
+PTB,Técnico,059,17/01/2018,Enero,Biobío,No value,Mulchén,Forestal,Incendio forestal,059-A,18/01/2018,1,Incendio forestal
+PTB,Técnico,062,18/01/2018,Enero,Biobío,No value,Chillán Viejo,Forestal,Incendio forestal,062-A,18/01/2018,1,Incendio forestal
+PTB,Técnico,064,18/01/2018,Enero,Metropolitana,No value,San José de Maipo,Meteorológica,Evento meterológico,064-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,062-A,18/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,062-B,18/01/2018,2,Incendio forestal
+PTB,Técnico,065,18/01/2018,Enero,Valparaíso,No value,Villa Alemana,Forestal,Incendio forestal,065-A,19/01/2018,1,Incendio forestal
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,San Fernando,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Chimbarongo,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Rengo,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Requínoa,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Machalí,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Codegua,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Mostazal,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+CBC,Técnico,068,19/01/2018,Enero,O'Higgins,No value,Rancagua,Meteorológica,Evento meterológico,068-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,Putaendo,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,Petorca,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,Cabildo,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,Los Andes,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,Calle Larga,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,069,19/01/2018,Enero,Valparaíso,No value,San Esteban,Meteorológica,Evento meterológico,069-C,22/01/2018,1,Evento meteorológico
+PTB,Técnico,070,19/01/2018,Enero,Los Ríos,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),070-A,07/02/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+PTB,Técnico,071,19/01/2018,Enero,Los Ríos,No value,Panguipulli,Meteorológica,Evento meterológico,071-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,071,19/01/2018,Enero,Los Ríos,No value,Futrono,Meteorológica,Evento meterológico,071-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,071,19/01/2018,Enero,Los Ríos,No value,Lago Ranco,Meteorológica,Evento meterológico,071-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,071,19/01/2018,Enero,Los Ríos,No value,Río Bueno,Meteorológica,Evento meterológico,071-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Collipulli,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Curacautín,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Lonquimay,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Melipeuco,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Cunco,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Villarrica,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Pucón,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Curarrehue,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+PTB,Técnico,072,19/01/2018,Enero,La Araucanía,No value,Vilcún,Meteorológica,Evento meterológico,072-A,22/01/2018,1,Evento meteorológico
+VMT,Técnico,074,21/01/2018,Enero,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,133-A,03/02/2018,1,Evento meteorológico
+VMT,Técnico,074,21/01/2018,Enero,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,133-A,03/02/2018,1,Evento meteorológico
+VMT,Técnico,074,21/01/2018,Enero,Antofagasta,No value,Calama,Meteorológica,Evento meterológico,133-A,03/02/2018,1,Evento meteorológico
+VMT,Técnico,074,21/01/2018,Enero,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,074-L,17/02/2018,1,Evento meteorológico
+BCG,Técnico,075,22/01/2018,Enero,Los Lagos,No value,Calbuco,Forestal,Incendio forestal,075-E,01/02/2018,1,Incendio forestal
+CBC,Técnico,079,24/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,079-A,25/01/2018,2,Incendio forestal
+BCG,Técnico,082,26/01/2018,Enero,Arica y Parinacota,No value,Arica,Otras alertas,Evento masivo,082-A,30/01/2018,1,Evento masivo
+CBC,Técnico,083,26/01/2018,Enero,Valparaíso,No value,Viña del Mar,Forestal,Incendio forestal,083-A,26/01/2018,1,Incendio forestal
+CBC,Técnico,083,26/01/2018,Enero,Valparaíso,No value,Concón,Forestal,Incendio forestal,083-A,26/01/2018,1,Incendio forestal
+CBC,Técnico,084,26/01/2018,Enero,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,084-D,27/01/2018,1,Incendio forestal
+CBC,Técnico,085,26/01/2018,Enero,Valparaíso,No value,Quilpué,Forestal,Incendios forestales,085-A,27/01/2018,1,Incendio forestal
+CBC,Técnico,085,26/01/2018,Enero,Valparaíso,No value,Villa Alemana,Forestal,Incendios forestales,085-A,27/01/2018,1,Incendio forestal
+CBC,Técnico,086,26/01/2018,Enero,Biobío,No value,Bulnes,Forestal,Incendio forestal,086-A,26/01/2018,1,Incendio forestal
+CBC,Técnico,086,26/01/2018,Enero,Biobío,No value,Quillón,Forestal,Incendio forestal,086-A,26/01/2018,1,Incendio forestal
+CPL,Técnico,087,27/01/2018,Enero,Los Ríos,No value,Mariquina,Forestal,Incendio forestal,087-B,30/01/2018,1,Incendio forestal
+CPL,Técnico,088,27/01/2018,Enero,Los Ríos,No value,Valdivia,Otras alertas,Evento masivo,088-A,28/01/2018,1,Evento masivo
+NSP,Técnico,089,27/01/2018,Enero,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,089-C,28/01/2018,1,Incendio forestal
+NSP,Técnico,090,27/01/2018,Enero,Metropolitana,No value,Melipilla,Forestal,Incendio forestal,090-A,27/01/2018,1,Incendio forestal
+NSP,Técnico,091,27/01/2018,Enero,Valparaíso,No value,La Calera,Forestal,Incendio forestal,091-D,29/01/2018,1,Incendio forestal
+NSP,Técnico,091,27/01/2018,Enero,Valparaíso,No value,La Cruz,Forestal,Incendio forestal,091-D,29/01/2018,1,Incendio forestal
+NSP,Técnico,092,27/01/2018,Enero,Metropolitana,No value,Curacaví,Forestal,Incendio forestal,092-A,28/01/2018,1,Incendio forestal
+NSP,Técnico,093,28/01/2018,Enero,Valparaíso,No value,Villa Alemana,Forestal,Incendio forestal,093-D,30/01/2018,1,Incendio forestal
+NSP,Técnico,094,28/01/2018,Enero,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,094-B,29/01/2018,1,Incendio forestal
+NSP,Técnico,095,28/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,095-A,28/01/2018,2,Incendio forestal
+NSP,Técnico,096,28/01/2018,Enero,O'Higgins,No value,Requínoa,Forestal,Incendio forestal,096-A,29/01/2018,1,Incendio forestal
+NSP,Técnico,095-A,28/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,095-B,30/01/2018,3,Incendio forestal
+NSP,Técnico,097,28/01/2018,Enero,Magallanes,No value,San Gregorio,Forestal,Incendio forestal,097-A,30/01/2018,1,Incendio forestal
+NSP,Técnico,099,29/01/2018,Enero,Metropolitana,No value,San Pedro,Forestal,Incendio forestal,099-A,29/01/2018,1,Incendio forestal
+NSP,Técnico,100,29/01/2018,Enero,Valparaíso,No value,Limache,Forestal,Incendio forestal,100-B,30/01/2018,1,Incendio forestal
+NSP,Técnico,101,29/01/2018,Enero,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,101-A,30/01/2018,1,Incendio forestal
+NSP,Técnico,102,29/01/2018,Enero,Los Lagos,No value,Chonchi,Forestal,Incendio forestal,102-A,30/01/2018,1,Incendio forestal
+NSP,Técnico,103,29/01/2018,Enero,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,103-D,08/02/2018,1,Incendio forestal
+NSP,Técnico,103,29/01/2018,Enero,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,103-D,08/02/2018,1,Incendio forestal
+NSP,Técnico,103,29/01/2018,Enero,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,103-D,08/02/2018,1,Incendio forestal
+BCG,Técnico,095-B,30/01/2018,Enero,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,95-C,20/02/2018,3,Alta probabilidad para la propagación de incendios forestales
+NSP,Técnico,105,30/01/2018,Enero,Maule,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (ola de calor),105-B,05/02/2018,3,Alta probabilidad para la propagación de incendios forestales (ola de calor)
+NSP,Técnico,106,30/01/2018,Enero,O'Higgins,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),106-A,01/02/2018,3,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,107,30/01/2018,Enero,Valparaíso,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),107-A,01/02/2018,3,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,108,30/01/2018,Enero,Metropolitana,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),108-A,01/02/2018,3,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,109,30/01/2018,Enero,Biobío,No value,Cabrero,Forestal,Incendio forestal,109-A,30/01/2018,1,Incendio forestal
+NSP,Técnico,102-A,30/01/2018,Enero,Los Lagos,No value,Chonchi,Forestal,Incendio forestal,102-B,31/01/2018,1,Incendio forestal
+NSP,Técnico,109-A,30/01/2018,Enero,Biobío,No value,-,Forestal,Incendio forestal,109-B,31/01/2018,2,Incendio forestal
+PTB,Técnico,111,30/01/2018,Enero,Valparaíso,No value,Casablanca,Forestal,Incendio forestal,111-B,31/01/2018,1,Incendio forestal
+PTB,Técnico,111,30/01/2018,Enero,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,111-B,31/01/2018,1,Incendio forestal
+PTB,Técnico,112,31/01/2018,Enero,Biobío,No value,Concepción,Forestal,Incendio forestal,112-A,31/01/2018,1,Incendio forestal
+PTB,Técnico,113,31/01/2018,Enero,Metropolitana,No value,Isla de Maipo,Forestal,Incendio forestal,113-B,01/02/2018,1,Incendio forestal
+NSP,Técnico,115,31/01/2018,Enero,Magallanes,No value,-,Meteorológica,Evento meterológico,115-A,01/02/2018,2,Evento meteorológico
+NSP,Técnico,116,31/01/2018,Enero,Tarapacá,No value,-,Meteorológica,Evento meterológico,116-I,17/02/2018,2,Evento meteorológico
+NSP,Técnico,117,31/01/2018,Enero,La Araucanía,No value,-,Forestal,Incendios forestales,117-E,06/02/2018,2,Incendios forestales
+CBC,Técnico,119,01/02/2018,Febrero ,Coquimbo,No value,La Serena,Otras alertas,Evento masivo,119-A,05/02/2018,1,Evento masivo
+NSP,Técnico,120,01/02/2018,Febrero ,Magallanes,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),120-A,06/02/2018,2,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,120,01/02/2018,Febrero ,Magallanes,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),120-A,06/02/2018,2,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,120,01/02/2018,Febrero ,Magallanes,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),120-A,06/02/2018,2,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,121,01/02/2018,Febrero ,O'Higgins,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (altas temperaturas),121-A,05/02/2018,3,Alta probabilidad para la propagación de incendios forestales (altas temperaturas)
+NSP,Técnico,113-B,01/02/2018,Febrero ,Metropolitana,No value,Isla de Maipo,Forestal,Incendio forestal,113-C,02/02/2018,1,Incendio forestal
+NSP,Técnico,122,01/02/2018,Febrero ,Metropolitana,No value,Lampa,Forestal,Incendio forestal,122-A,01/02/2018,1,Incendio forestal
+NSP,Técnico,123,01/02/2018,Febrero ,Arica y Parinacota,No value,-,Meteorológica,Evento meterológico,123-A,10/02/2018,2,Evento meteorológico
+NSP,Técnico,123,01/02/2018,Febrero ,Arica y Parinacota,No value,Camarones,Meteorológica,Evento meterológico,123-A,10/02/2018,1,Evento meteorológico
+NSP,Técnico,124,01/02/2018,Febrero ,Atacama,No value,Copiapó,Otras alertas,Evento masivo,124-A,06/02/2018,1,Evento masivo
+NSP,Técnico,125,01/02/2018,Febrero ,Los Ríos,No value,Mariquina,Forestal,Incendio forestal,125-C,05/02/2018,1,Incendio forestal
+PTB,Técnico,127,01/02/2018,Febrero ,Aysén,No value,-,Otras alertas,Eventos masivos,127-A,06/03/2018,3,Eventos masivos
+NSP,Técnico,128,02/02/2018,Febrero ,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,128-A,02/02/2018,1,Incendio forestal
+NSP,Técnico,130,02/02/2018,Febrero ,Metropolitana,No value,San José de Maipo,Meteorológica,Evento meterológico,130-A,08/02/2018,1,Evento meteorológico
+NSP,Técnico,131,02/02/2018,Febrero ,Los Lagos,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,131-A,07/02/2018,3,Alta probabilidad para la propagación de incendios forestales
+VMT,Técnico,103-C,03/02/2018,Febrero ,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,103-D,29/01/2018,1,Evento meteorológico
+PTB,Técnico,133,03/02/2018,Febrero ,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,133-A,03/02/2018,1,Evento meteorológico
+PTB,Técnico,133-A,03/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,133-J,10/02/2018,2,Evento meteorológico
+VMT,Técnico,133-D,04/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,133-E,05/02/2018,1,Evento meteorológico
+VMT,Técnico,133-D,04/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,133-E,05/02/2018,1,Evento meteorológico
+VMT,Técnico,136,04/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendios forestales,136-A,05/02/2018,2,Incendios forestales
+VMT,Técnico,136,04/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendios forestales,136-A,05/02/2018,2,Incendios forestales
+BCG,Técnico,125-C,05/02/2018,Febrero ,Los Ríos,No value,Mariquina,Forestal,Incendio forestal,125-D,07/02/2018,1,Incendio forestal
+CBC,Técnico,141,05/02/2018,Febrero ,Los Ríos,No value,Los Lagos,Forestal,Incendio forestal,141-A,06/02/2018,1,Incendio forestal
+VMT,Técnico,149,08/02/2018,Febrero ,Metropolitana,No value,San Pedro,Forestal,Incendio forestal,149-A,09/02/2018,1,Incendio forestal
+VMT,Técnico,151,09/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendio forestal,151-A,16/02/2018,2,Incendio forestal
+VMT,Técnico,152,09/02/2018,Febrero ,Magallanes,No value,Porvenir,Otras alertas,Evento masivo,152-A,11/02/2018,1,Evento masivo
+VMT,Técnico,153,09/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendio forestal,153-A,20/02/2018,2,Incendio forestal
+VMT,Técnico,154,09/02/2018,Febrero ,Coquimbo,No value,Ovalle,Forestal,Incendio forestal,154-A,09/02/2018,1,Incendio forestal
+CBC,Técnico,154-A,09/02/2018,Febrero ,Coquimbo,No value,Ovalle,Forestal,Incendio forestal,154-B,10/02/2018,1,Incendio forestal
+CPL,Técnico,157,10/02/2018,Febrero ,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,157-C,12/02/2018,1,Incendio forestal
+CPL,Técnico,158,10/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendio forestal,158-A,11/02/2018,2,Incendio forestal
+CPL,Técnico,159,10/02/2018,Febrero ,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,159-A,12/02/2018,1,Incendio forestal
+CPL,Técnico,160,10/02/2018,Febrero ,Valparaíso,No value,La Ligua,Forestal,Incendio forestal,160-C,15/02/2018,1,Incendio forestal
+CPL,Técnico,161,10/02/2018,Febrero ,Maule,No value,Longaví,Forestal,Incendio forestal,161-B,12/02/2018,1,Incendio forestal
+CPL,Técnico,162,10/02/2018,Febrero ,Valparaíso,No value,Limache ,Forestal,Incendio forestal,162-E,13/02/2018,1,Incendio forestal
+CPL,Técnico,162,10/02/2018,Febrero ,Valparaíso,No value,Villa Alemana,Forestal,Incendio forestal,162-E,13/02/2018,1,Incendio forestal
+CPL,Técnico,163,10/02/2018,Febrero ,Maule,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (ola de calor),163-A,02/03/2018,3,Alta probabilidad para la propagación de incendios forestales (ola de calor)
+CPL,Técnico,164,10/02/2018,Febrero ,O'Higgins,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (ola de calor),164-B,20/02/2018,3,Alta probabilidad para la propagación de incendios forestales (ola de calor)
+CPL,Técnico,074-J,10/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,074-L,17/02/2018,2,Evento meteorológico
+CPL,Técnico,165,10/02/2018,Febrero ,Coquimbo,No value,Ovalle,Forestal,Incendio forestal,165-A,10/02/2018,1,Incendio forestal
+CPL,Técnico,166,10/02/2018,Febrero ,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,166-A,15/02/2018,1,Evento meteorológico
+CPL,Técnico,166,10/02/2018,Febrero ,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,166-A,15/02/2018,1,Evento meteorológico
+CPL,Técnico,166,10/02/2018,Febrero ,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,166-A,15/02/2018,1,Evento meteorológico
+CPL,Técnico,166,10/02/2018,Febrero ,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,166-A,15/02/2018,1,Evento meteorológico
+CPL,Técnico,167,10/02/2018,Febrero ,Coquimbo,No value,Los Vilos,Forestal,Incendio forestal,167-A,10/02/2018,1,Incendio forestal
+CPL,Técnico,168,10/02/2018,Febrero ,Metropolitana,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (ola de calor),168-A,14/02/2018,3,Alta probabilidad para la propagación de incendios forestales (ola de calor)
+CPL,Técnico,167-A,10/02/2018,Febrero ,Coquimbo,No value,Los Vilos,Forestal,Incendio forestal,167-C,13/02/2018,1,Incendio forestal
+CBC,Técnico,165-A,10/02/2018,Febrero ,Coquimbo,No value,Ovalle,Forestal,Incendio forestal,165-B,11/02/2018,1,Incendio forestal
+CBC,Técnico,170,11/02/2018,Febrero ,Valparaíso,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales (ola de calor),170-A,17/02/2018,3,Alta probabilidad para la propagación de incendios forestales (ola de calor)
+CPL,Técnico,171,11/02/2018,Febrero ,Metropolitana,No value,Talagante,Forestal,Incendio forestal,171-A,12/02/2018,1,Incendio forestal
+CPL,Técnico,172,11/02/2018,Febrero ,Valparaíso,No value,Santo Domingo,Forestal,Incendio forestal,172-B,14/02/2018,1,Incendio forestal
+CPL,Técnico,173,11/02/2018,Febrero ,Maule,No value,Vichuquén,Forestal,Incendio forestal,173-A,11/02/2018,1,Incendio forestal
+CPL,Técnico,174,11/02/2018,Febrero ,Arica y Parinacota,No value,-,Meteorológica,Evento meterológico,174-C,17/02/2018,2,Evento meteorológico
+CPL,Técnico,174,11/02/2018,Febrero ,Arica y Parinacota,No value,Camarones,Meteorológica,Evento meterológico,174-C,17/02/2018,1,Evento meteorológico
+CPL,Técnico,158-A,11/02/2018,Febrero ,Biobío,No value,-,Forestal,Incendio forestal,158-B,12/02/2018,2,Incendio forestal
+CPL,Técnico,175,11/02/2018,Febrero ,La Araucanía,No value,-,Forestal,Incendio forestal,195-A,15/02/2018,3,Incendio forestal
+CBC,Técnico,177,11/02/2018,Febrero ,Los Ríos,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,177-A,19/02/2018,3,Alta probabilidad para la propagación de incendios forestales
+CBC,Técnico,178,11/02/2018,Febrero ,O'Higgins,No value,Santa Cruz,Forestal,Incendio forestal,178-A,12/02/2018,1,Incendio forestal
+BCG,Técnico,161-B,12/02/2018,Febrero ,Maule,No value,-,Forestal,Incendio forestal,161-C,19/02/2018,2,Incendio forestal
+CPL,Técnico,180,12/02/2018,Febrero ,Magallanes,No value,Punta Arenas,Meteorológica,Evento meterológico,180-A,14/02/2018,1,Evento meteorológico
+CPL,Técnico,180,12/02/2018,Febrero ,Magallanes,No value,Torres del Paine,Meteorológica,Evento meterológico,180-A,14/02/2018,1,Evento meteorológico
+CPL,Técnico,181,12/02/2018,Febrero ,Metropolitana,No value,Recoleta,Forestal,Incendio forestal,181-A,13/02/2018,1,Incendio forestal
+NSP,Técnico,182,12/02/2018,Febrero ,La Araucanía,No value,Galvarino,Forestal,Incendio forestal,195-A,15/02/2018,1,Incendio forestal
+NSP,Técnico,182,12/02/2018,Febrero ,La Araucanía,No value,Traiguén,Forestal,Incendio forestal,182-B,14/02/2018,1,Incendio forestal
+BCG,Técnico,184,13/02/2018,Febrero ,Metropolitana,No value,Calera de Tango,Forestal,Incendio forestal,184-A,13/02/2018,1,Incendio forestal
+CPL,Técnico,186,13/02/2018,Febrero ,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,186-B,14/02/2018,1,Incendio forestal
+CPL,Técnico,187,13/02/2018,Febrero ,Atacama,No value,Vallenar,Forestal,Incendio forestal,187-A,13/02/2018,1,Incendio forestal
+CPL,Técnico,188,13/02/2018,Febrero ,Los Lagos,No value,Ancud,Forestal,Incendio forestal,188-A,19/02/2018,1,Incendio forestal
+CPL,Técnico,167-C,13/02/2018,Febrero ,Coquimbo,No value,Los Vilos,Forestal,Incendio forestal,167-D,16/02/2018,1,Incendio forestal
+CPL,Técnico,189,13/02/2018,Febrero ,La Araucanía,No value,Lonquimay,Forestal,Incendio forestal,189-A,20/02/2018,1,Incendio forestal
+CPL,Técnico,162-E,13/02/2018,Febrero ,Valparaíso,No value,Villa Alemana,Forestal,Incendio forestal,162-F,14/02/2018,1,Incendio forestal
+CPL,Técnico,162-E,13/02/2018,Febrero ,Valparaíso,No value,Limache,Forestal,Incendio forestal,162-F,14/02/2018,1,Incendio forestal
+CPL,Técnico,182-B,14/02/2018,Febrero ,La Araucanía,No value,Traiguén,Forestal,Incendio forestal,182-C,16/02/2018,1,Incendio forestal
+CPL,Técnico,186-B,14/02/2018,Febrero ,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,186-C,14/02/2018,1,Incendio forestal
+BCG,Técnico,192,15/02/2018,Febrero ,Magallanes,No value,Timaukel,Otras alertas,Evento masivo,192-A,19/02/2018,1,Evento masivo
+BCG,Técnico,192,15/02/2018,Febrero ,Magallanes,No value,Porvenir,Otras alertas,Evento masivo,192-A,19/02/2018,1,Evento masivo
+NSP,Técnico,160-C,15/02/2018,Febrero ,Valparaíso,No value,La Ligua,Forestal,Incendio forestal,160-D,16/02/2018,1,Incendio forestal
+CPL,Técnico,195,15/02/2018,Febrero ,La Araucanía,No value,-,Forestal,Incendio forestal,195-A,15/02/2018,2,Incendio forestal
+CPL,Técnico,195-A,15/02/2018,Febrero ,La Araucanía,No value,-,Forestal,Incendio forestal,195-B,17/02/2018,3,Incendio forestal
+BCG,Técnico,197,16/02/2018,Febrero ,Magallanes,No value,-,Forestal,Reforzamiento del sistema de Protección Civil ante la ocurrencia de incendios forestales,197-A,27/02/2018,3,Reforzamiento del sistema de Protección Civil ante la ocurrencia de incendios forestales
+BCG,Técnico,198,16/02/2018,Febrero ,Aysén,No value,-,Forestal,Reforzamiento del sistema de Protección Civil ante la ocurrencia de incendios forestales,198-A,06/03/2018,3,Reforzamiento del sistema de Protección Civil ante la ocurrencia de incendios forestales
+PTB,Técnico,195-B,17/02/2018,Febrero ,La Araucanía,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,195-C,19/02/2018,3,Alta probabilidad para la propagación de incendios forestales
+PTB,Técnico,200,17/02/2018,Febrero ,Maule,No value,Curicó,Forestal,Incendio forestal,200-A,20/02/2018,1,Incendio forestal
+PTB,Técnico,202,18/02/2018,Febrero ,O'Higgins,No value,San Vicente,Forestal,Incendio forestal,202-A,19/02/2018,1,Incendio forestal
+PTB,Técnico,203,18/02/2018,Febrero ,O'Higgins,No value,Navidad,Forestal,Incendio forestal,203-A,18/02/2018,1,Incendio forestal
+PTB,Técnico,204,18/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,204-A,19/02/2018,2,Evento meteorológico
+PTB,Técnico,205,18/02/2018,Febrero ,Coquimbo,No value,Salamanca,Meteorológica,Evento meterológico,205-A,19/02/2018,1,Evento meteorológico
+PTB,Técnico,207,18/02/2018,Febrero ,Valparaíso,No value,Petorca,Meteorológica,Evento meterológico,207-A,19/02/2018,1,Evento meteorológico
+PTB,Técnico,209,19/02/2018,Febrero ,Arica y Parinacota,No value,-,Meteorológica,Evento meterológico,209-B,01/03/2018,2,Evento meteorológico
+PTB,Técnico,209,19/02/2018,Febrero ,Arica y Parinacota,No value,Camarones,Meteorológica,Evento meterológico,209-B,01/03/2018,1,Evento meteorológico
+PTB,Técnico,210,19/02/2018,Febrero ,Tarapacá,No value,-,Meteorológica,Evento meterológico,210-C,08/03/2018,2,Evento meteorológico
+PTB,Técnico,189-B,20/02/2018,Febrero ,La Araucanía,No value,Lonquimay,Forestal,Incendio forestal,189-C,23/02/2018,1,Incendio forestal
+PTB,Técnico,214,20/02/2018,Febrero ,Antofagasta,No value,-,Meteorológica,Evento meterológico,214-B,26/02/2018,2,Evento meteorológico
+PTB,Técnico,215,22/02/2018,Febrero ,Atacama,No value,Freirina,Forestal,Incendio forestal,215-C,24/02/2018,1,Incendio forestal
+PTB,Técnico,215,22/02/2018,Febrero ,Atacama,No value,Vallenar,Forestal,Incendio forestal,215-C,24/02/2018,1,Incendio forestal
+BCG,Técnico,218,23/02/2018,Febrero ,Los Ríos,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,218-A,26/02/2018,3,Alta probabilidad para la propagación de incendios forestales
+PTB,Técnico,219,23/02/2018,Febrero ,Atacama,No value,Caldera,Otras alertas,Evento masivo,219-A,25/02/2018,1,Evento masivo
+CBC,Técnico,220,24/02/2018,Febrero ,Los Ríos,No value,Valdivia,Otras alertas,Evento masivo,220-A,25/02/2018,1,Evento masivo
+CBC,Técnico,221,24/02/2018,Febrero ,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,221-A,24/02/2018,1,Incendio forestal
+BCG,Técnico,224,26/02/2018,Febrero ,Metropolitana,No value,Peñaflor,Otras alertas,Incendio en vertedero,224-C,03/03/2018,1,Incendio en vertedero
+CBC,Técnico,225,26/02/2018,Febrero ,Coquimbo,No value,Ovalle,Forestal,Incendio forestal,225-C,01/03/2018,1,Incendio forestal
+CBC,Técnico,227,26/02/2018,Febrero ,Metropolitana,No value,Curacaví,Forestal,Incendio forestal,227-A,26/02/2018,1,Incendio forestal
+CBC,Técnico,229,27/02/2018,Febrero ,Magallanes,No value,-,Meteorológica,Evento meterológico,229-A,02/03/2018,3,Evento meteorológico
+CBC,Técnico,232,02/03/2018,Marzo,Atacama,No value,Caldera,Otras alertas,Evento masivo,232-A,04/03/2018,1,Evento masivo
+NSP,Técnico,235,04/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,235-B,06/03/2018,3,Evento meteorológico
+NSP,Técnico,237,05/03/2018,Marzo,Biobío,No value,-,Forestal,Incendio forestal,237-B,07/03/2018,2,Incendio forestal
+NSP,Técnico,238,05/03/2018,Marzo,Biobío,No value,-,Forestal,Incendio forestal,238-A,06/03/2018,2,Incendio forestal
+NSP,Técnico,239,05/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,239-A,09/03/2018,2,Alta probabilidad para la propagación de incendios forestales
+NSP,Técnico,239,05/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,239-A,09/03/2018,2,Alta probabilidad para la propagación de incendios forestales
+BCG,Técnico,235-B,06/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,235-C,07/03/2018,3,Evento meteorológico
+NSP,Técnico,238-A,06/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,238-B,09/03/2018,2,Alta probabilidad para la propagación de incendios forestales
+NSP,Técnico,241,06/03/2018,Marzo,La Araucanía,No value,Lautaro,Forestal,Incendio forestal,241-A,07/03/2018,1,Incendio forestal
+NSP,Técnico,241,06/03/2018,Marzo,La Araucanía,No value,Galvarino,Forestal,Incendio forestal,241-B,08/03/2018,1,Incendio forestal
+NSP,Técnico,242,06/03/2018,Marzo,La Araucanía,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,242-A,09/03/2018,3,Alta probabilidad para la propagación de incendios forestales
+BCG,Técnico,244,07/03/2018,Marzo,Los Lagos,No value,-,Meteorológica,Evento meterológico,244-F,18/03/2018,3,Evento meteorológico
+NSP,Técnico,237-B,07/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,237-C,09/03/2018,2,Alta probabilidad para la propagación de incendios forestales
+NSP,Técnico,247,07/03/2018,Marzo,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,247-B,08/03/2018,1,Incendio forestal
+BCG,Técnico,251,08/03/2018,Marzo,Magallanes,No value,Torres del Paine,Meteorológica,Aumento de caudal,251-A,10/03/2018,1,Aumento de caudal
+NSP,ATR,***,09/03/2018,Marzo,Arica y Parinacota,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Tarapacá,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Antofagasta,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Atacama,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Coquimbo,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Valparaíso,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Valparaíso,No value,Juan Fernandez,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,O'Higgins,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Maule,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Biobío,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,La Araucanía,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Los Ríos,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Los Lagos,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,ATR,***,09/03/2018,Marzo,Aysén,No value,Borde costero ,Marejadas,Marejadas anormales,***,19/03/2018,1,Marejadas anormales
+NSP,Técnico,252,09/03/2018,Marzo,Valparaíso,No value,Limache,Forestal,Incendios forestales,252-E,11/03/2018,1,Incendio forestal
+NSP,Técnico,252,09/03/2018,Marzo,Valparaíso,No value,Villa Alemana,Forestal,Incendios forestales,252-E,11/03/2018,1,Incendio forestal
+VMT,Técnico,254,10/03/2018,Marzo,Valparaíso,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,254-A,21/03/2018,3,Alta probabilidad para la propagación de incendios forestales
+VMT,Técnico,255,10/03/2018,Marzo,Valparaíso,No value,Viña del Mar,Forestal,Incendio forestal,255-F,13/03/2018,1,Incendio forestal
+VMT,Técnico,256,10/03/2018,Marzo,O'Higgins,No value,Paredones,Forestal,Incendio forestal,256-C,11/03/2018,1,Incendio forestal
+VMT,Técnico,255-A,10/03/2018,Marzo,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,255-F,13/03/2018,1,Incendio forestal
+PTB,Técnico,257,10/03/2018,Marzo,Valparaíso,No value,Valparaíso,Otras alertas,Evento masivo,257-A,11/03/2018,1,Evento masivo
+PTB,Técnico,257,10/03/2018,Marzo,Valparaíso,No value,Viña del Mar,Otras alertas,Evento masivo,257-A,11/03/2018,1,Evento masivo
+PTB,Técnico,257,10/03/2018,Marzo,Valparaíso,No value,Casablanca,Otras alertas,Evento masivo,257-A,11/03/2018,1,Evento masivo
+NSP,Técnico,259,11/03/2018,Marzo,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,259-C,12/03/2018,1,Incendio forestal
+VMT,Técnico,260,12/03/2018,Marzo,Valparaíso,No value,Limache,Forestal,Incendio forestal,260-C,13/03/2018,1,Incendio forestal
+VMT,Técnico,261,12/03/2018,Marzo,Valparaíso,No value,Concón,Forestal,Incendio forestal,261-C,13/03/2018,1,Incendio forestal
+VMT,Técnico,262,13/03/2018,Marzo,Biobío,No value,Chillán Viejo,Forestal,Incendio forestal,262-A,13/03/2018,1,Incendio forestal
+VMT,Técnico,264,13/03/2018,Marzo,Valparaíso,No value,Villa Alemana,Forestal,Incendio forestal,264-C,15/03/2018,1,Incendio forestal
+BCG,Técnico,265,14/03/2018,Marzo,La Araucanía,No value,-,Meteorológica,Evento meterológico,265-C,18/03/2018,3,Evento meteorológico
+BCG,Técnico,266,14/03/2018,Marzo,Los Ríos,No value,-,Meteorológica,Evento meterológico,266-E,17/03/2018,3,Evento meteorológico
+BCG,Técnico,267,14/03/2018,Marzo,Biobío,No value,-,Meteorológica,Evento meterológico,267-B,18/03/2018,3,Evento meteorológico
+BCG,Técnico,268,14/03/2018,Marzo,Valparaíso,No value,Valparaíso,Forestal,Incendio forestal,268-E,16/03/2018,3,Incendio forestal
+VMT,Técnico,269,14/03/2018,Marzo,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,269-F,18/03/2018,1,Incendio forestal
+VMT,Técnico,270-A,15/03/2018,Marzo,Metropolitana,No value,Paine,Forestal,Incendio forestal,270-E,18/03/2018,1,Incendio forestal
+VMT,Técnico,271,15/03/2018,Marzo,Maule,No value,-,Meteorológica,Evento meterológico,271-A,18/03/2018,3,Evento meteorológico
+VMT,Técnico,272,15/03/2018,Marzo,Maule,No value,Teno,Forestal,Incendio forestal,272-A,16/03/2018,1,Incendio forestal
+BCG,Técnico,274,16/03/2018,Marzo,Magallanes,No value,Torres del Paine,Meteorológica,Evento meterológico,274-A,16/03/2018,1,Evento meteorológico
+VMT,Técnico,274-A,16/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,274-B,19/03/2018,3,Evento meteorológico
+VMT,Técnico,919-BD,16/03/2018,Marzo,Los Lagos,No value,-,Remoción en masa,Remoción en masa,919-BK,18/06/2018,2,Remoción en masa
+CBC,Técnico,275,17/03/2018,Marzo,Biobío,No value,Pinto,Volcánica,Actividad del Complejo Volcánico Nevados de Chillán,Vigente,Vigente,1,Actividad del complejo volcánico Nevados de Chillán
+CBC,Técnico,275,17/03/2018,Marzo,Biobío,No value,Coihueco,Volcánica,Actividad del Complejo Volcánico Nevados de Chillán,Vigente,Vigente,1,Actividad del complejo volcánico Nevados de Chillán
+CBC,Técnico,275,17/03/2018,Marzo,Biobío,No value,San Fabián,Volcánica,Actividad del Complejo Volcánico Nevados de Chillán,Vigente,Vigente,1,Actividad del complejo volcánico Nevados de Chillán
+CPL,Técnico,277,17/03/2018,Marzo,Valparaíso,No value,Casablanca,Forestal,Incendio forestal,277-A,17/03/2018,1,Incendio forestal
+CPL,Técnico,278,17/03/2018,Marzo,Tarapacá,No value,-,Meteorológica,Evento meterológico,278-B,24/03/2018,2,Evento meteorológico
+CPL,Técnico,277-A,17/03/2018,Marzo,Valparaíso,No value,Casablanca,Forestal,Incendio forestal,277-E,19/03/2018,1,Incendio forestal
+CPL,Técnico,277-A,17/03/2018,Marzo,Valparaíso,No value,Cartagena,Forestal,Incendio forestal,277-E,19/03/2018,1,Incendio forestal
+CBC,Técnico,279,18/03/2018,Marzo,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,279-B,22/03/2018,1,Evento meteorológico
+BCG,Técnico,281,20/03/2018,Marzo,La Araucanía,No value,-,Meteorológica,Evento meterológico,281-A,23/03/2018,3,Evento meteorológico
+CPL,Técnico,282,20/03/2018,Marzo,Los Ríos,No value,-,Meteorológica,Evento meterológico,282-A,23/03/2018,3,Evento meteorológico
+CPL,Técnico,283,20/03/2018,Marzo,Los Lagos,No value,-,Meteorológica,Evento meterológico,283-D,24/03/2018,3,Evento meteorológico
+PTB,Técnico,288,24/03/2018,Marzo,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,288-A,24/03/2018,1,Incendio forestal
+PTB,Técnico,288-A,24/03/2018,Marzo,Valparaíso,No value,Quilpué,Forestal,Incendio forestal,288-G,27/03/2018,1,Incendio forestal
+PTB,Técnico,289,24/03/2018,Marzo,Valparaíso,No value,Santo Domingo,Forestal,Incendio forestal,289-C,25/03/2018,1,Incendio forestal
+PTB,Técnico,291,24/03/2018,Marzo,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,291-A,26/03/2018,1,Evento meteorológico
+PTB,Técnico,291,24/03/2018,Marzo,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,291-A,26/03/2018,1,Evento meteorológico
+NSP,Técnico,292,24/03/2018,Marzo,Biobío,No value,Alto Biobío,Volcánica,Actividad del Volcán Copahue,Vigente,Vigente,1,Actividad Volcán Copahue
+NSP,Técnico,293,24/03/2018,Marzo,Valparaíso,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,293-B,31/03/2018,3,Alta probabilidad para la propagación de incendios forestales
+PTB,Técnico,289-C,25/03/2018,Marzo,Valparaíso,No value,Santo Domingo,Forestal,Incendio forestal,289-E,26/03/2018,1,Incendio forestal
+BCG,ATR,***,27/03/2018,Marzo,Arica y Parinacota,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Tarapacá,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Antofagasta,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Atacama,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Coquimbo,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Valparaíso,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Valparaíso,No value,Juan Fernandez,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,O'Higgins,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Maule,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Biobío,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,La Araucanía,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Los Ríos,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Los Lagos,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+BCG,ATR,***,27/03/2018,Marzo,Aysén,No value,Borde costero ,Marejadas,Marejadas anormales,***,08/04/2018,1,Marejadas anormales
+PTB,Técnico,296,27/03/2018,Marzo,Metropolitana,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),296-A,30/03/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+BCG,Técnico,299,28/03/2018,Marzo,O'Higgins,No value,-,Forestal,Altas temperaturas (alta probabilidad para la propagación de incendios forestales),299-A,01/04/2018,3,Altas temperaturas (alta probabilidad para la propagación de incendios forestales)
+PTB,Técnico,300,28/03/2018,Marzo,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,300-A,28/03/2018,1,Evento meteorológico
+PTB,Técnico,300,28/03/2018,Marzo,Antofagasta,No value,Taltal,Meteorológica,Evento meterológico,300-A,28/03/2018,1,Evento meteorológico
+PTB,Técnico,300,28/03/2018,Marzo,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,300-A,28/03/2018,1,Evento meteorológico
+PTB,Técnico,301,28/03/2018,Marzo,Maule,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,301-A,02/04/2018,3,Alta probabilidad para la propagación de incendios forestales
+CBC,Técnico,302,29/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,302-A,02/04/2018,2,Alta probabilidad para la propagación de incendios forestales
+CBC,Técnico,302,29/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,302-A,02/04/2018,2,Alta probabilidad para la propagación de incendios forestales
+CBC,Técnico,302,29/03/2018,Marzo,Biobío,No value,-,Forestal,Alta probabilidad para la propagación de incendios forestales,302-A,02/04/2018,2,Alta probabilidad para la propagación de incendios forestales
+CBC,Técnico,303,29/03/2018,Marzo,Antofagasta,No value,-,Meteorológica,Evento meterológico,303-B,31/03/2018,2,Evento meteorológico
+CBC,Técnico,303,29/03/2018,Marzo,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,303-B,31/03/2018,1,Evento meteorológico
+CBC,Técnico,303,29/03/2018,Marzo,Antofagasta,No value,Taltal,Meteorológica,Evento meterológico,303-B,31/03/2018,1,Evento meteorológico
+PTB,Técnico,308,29/03/2018,Marzo,Maule,No value,San Javier,Forestal,Incendio forestal,308-D,30/03/2018,1,Incendio forestal
+VMT,Técnico,309,29/03/2018,Marzo,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,309-A,31/03/2018,1,Evento meteorológico
+VMT,Técnico,309,29/03/2018,Marzo,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,309-A,31/03/2018,1,Evento meteorológico
+VMT,Técnico,309,29/03/2018,Marzo,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,309-A,31/03/2018,1,Evento meteorológico
+PTB,Técnico,311,30/03/2018,Marzo,Metropolitana,No value,Alhué,Forestal,Incendio forestal,311-B,31/03/2018,1,Incendio forestal
+CBC,Técnico,314,31/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,314-G,05/04/2018,2,Evento meteorológico
+CBC,Técnico,314,31/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,314-G,05/04/2018,2,Evento meteorológico
+CBC,Técnico,314,31/03/2018,Marzo,Magallanes,No value,-,Meteorológica,Evento meterológico,314-C,04/04/2018,2,Evento meteorológico
+CBC,Técnico,317,02/04/2018,Abril,Los Lagos,No value,-,Meteorológica,Evento meterológico,317-B,05/04/2018,3,Evento meteorológico
+CBC,Técnico,319,03/04/2018,Abril,Coquimbo,No value,La Serena,Otras alertas,Evento masivo,319-B,24/04/2018,1,Evento masivo
+CBC,Técnico,319-A,03/04/2018,Abril,Coquimbo,No value,Coquimbo,Otras alertas,Evento masivo,319-B,24/04/2018,1,Evento masivo
+CBC,Técnico,322,04/04/2018,Abril,Aysén,No value,-,Meteorológica,Evento meterológico,322-A,05/04/2018,3,Evento meteorológico
+NSP,Técnico,328,06/04/2018,Abril,Antofagasta,No value,San Pedro de Atacama,Volcánica,Actividad del Volcán Láscar,Vigente,Vigente,1,Actividad Volcán Láscar
+NSP,Técnico,329,07/04/2018,Abril,Biobío,No value,-,Meteorológica,Evento meterológico,329-A,12/04/2018,3,Evento meteorológico
+NSP,Técnico,330,07/04/2018,Abril,Los Lagos,No value,-,Meteorológica,Evento meterológico,330-C,12/04/2018,3,Evento meteorológico
+NSP,Técnico,331,07/04/2018,Abril,Los Ríos,No value,-,Meteorológica,Evento meterológico,331-B,12/04/2018,3,Evento meteorológico
+NSP,Técnico,332,07/04/2018,Abril,La Araucanía,No value,-,Meteorológica,Evento meterológico,332-C,12/04/2018,3,Evento meteorológico
+BCG,Técnico,334,10/04/2018,Abril,O'Higgins,No value,Coltauco,Forestal,Incendio forestal,334-A,10/04/2018,1,Incendio forestal
+NSP,Técnico,335,10/04/2018,Abril,Valparaíso,No value,Limache,Forestal,Incendio forestal,335-A,10/04/2018,1,Incendio forestal
+BCG,Técnico,340,12/04/2018,Abril,Los Ríos,No value,-,Meteorológica,Heladas,340-A,13/04/2018,3,Heladas
+BCG,Técnico,341,12/04/2018,Abril,Los Lagos,No value,-,Meteorológica,Heladas,341-A,13/04/2018,3,Heladas
+NSP,Técnico,342,12/04/2018,Abril,La Araucanía,No value,-,Meteorológica,Heladas,342-A,13/04/2018,3,Heladas
+VMT,Técnico,347,16/04/2018,Abril,O'Higgins,No value,Las Cabras,Forestal,Incendio forestal,347-B,17/04/2018,1,Incendio forestal
+BCG,Técnico,347-A,17/04/2018,Abril,O'Higgins,No value,Las Cabras,Forestal,Incendio forestal,347-D,17/04/2018,1,Incendio forestal
+BCG,Técnico,358,19/04/2018,Abril,Aysén,No value,-,Meteorológica,Evento meterológico,358-E,21/04/2018,3,Evento meteorológico
+BCG,Técnico,362,20/04/2018,Abril,Aysén,No value,-,Meteorológica,Evento meterológico,362-E,08/05/2018,2,Evento meteorológico
+CPL,Técnico,365,21/04/2018,Abril,Antofagasta,No value,Antofagasta,Otras alertas,Evento masivo,365-A,23/04/2018,1,Evento masivo
+CBC,Técnico,365-A,23/04/2018,Abril,Antofagasta,No value,Antofagasta,Otras alertas,Evento masivo,365-D,23/05/2018,1,Evento masivo
+CBC,Técnico,365-A,23/04/2018,Abril,Antofagasta,No value,Calama,Otras alertas,Evento masivo,365-D,23/05/2018,1,Evento masivo
+CBC,Técnico,365-A,23/04/2018,Abril,Antofagasta,No value,Tocopilla,Otras alertas,Evento masivo,365-D,23/05/2018,1,Evento masivo
+BCG,Técnico,368,24/04/2018,Abril,La Araucanía,No value,-,Meteorológica,Evento meterológico,368-A,27/04/2018,3,Evento meteorológico
+BCG,Técnico,369,24/04/2018,Abril,Aysén,No value,-,Meteorológica,Evento meterológico,369-A,26/04/2018,3,Evento meteorológico
+BCG,Técnico,370,24/04/2018,Abril,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,370-A,27/04/2018,1,Evento meteorológico
+BCG,Técnico,370,24/04/2018,Abril,Antofagasta,No value,Ollagüe,Meteorológica,Evento meterológico,370-A,27/04/2018,1,Evento meteorológico
+BCG,Técnico,370,24/04/2018,Abril,Antofagasta,No value,San Pedro de Atacama,Meteorológica,Evento meterológico,370-A,27/04/2018,1,Evento meteorológico
+CPL,Técnico,371,24/04/2018,Abril,Los Ríos,No value,-,Meteorológica,Evento meterológico,371-A,27/04/2018,3,Evento meteorológico
+CPL,Técnico,372,24/04/2018,Abril,Los Lagos,No value,-,Meteorológica,Evento meterológico,272-C,27/04/2018,3,Evento meteorológico
+CPL,Técnico,374,24/04/2018,Abril,Magallanes,No value,-,Meteorológica,Evento meterológico,374-A,27/04/2018,3,Evento meteorológico
+CPL,Técnico,375,24/04/2018,Abril,Valparaíso,No value,-,Meteorológica,Evento meterológico,375-C,27/04/2018,2,Evento meteorológico
+CPL,Técnico,376,26/04/2018,Abril,Aysén,No value,-,Meteorológica,Evento meterológico,376-A,27/04/2018,3,Evento meteorológico
+CPL,Técnico,377,26/04/2018,Abril,Coquimbo,No value,Combarbalá,Otras alertas,Evento masivo,377-A,08/05/2018,1,Evento masivo
+PTB,Técnico,385,02/05/2018,Mayo,Valparaíso,No value,Juan Fernandez,Marejadas,Marejadas anormales,285-A,08/05/2018,1,Marejadas anormales
+PTB,Técnico,386,02/05/2018,Mayo,Aysén,No value,-,Meteorológica,Evento meterológico,386-A,05/05/2018,3,Evento meteorológico
+PTB,Técnico,387,02/05/2018,Mayo,Los Lagos,No value,-,Meteorológica,Evento meterológico,387-A,23/05/2018,2,Evento meteorológico
+PTB,Técnico,387,02/05/2018,Mayo,Los Lagos,No value,-,Meteorológica,Evento meterológico,387-A,23/03/2018,2,Evento meteorológico
+BCG,Técnico,391,03/05/2018,Mayo,Valparaíso,No value,Juan Fernandez,Meteorológica,Evento meterológico,391-C,09/05/2018,1,Evento meteorológico
+PTB,Técnico,393,03/05/2018,Mayo,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,393-D,08/05/2018,1,Evento meteorológico
+PTB,Técnico,393,03/05/2018,Mayo,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,393-D,08/05/2018,1,Evento meteorológico
+PTB,Técnico,393,03/05/2018,Mayo,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,393-D,08/05/2018,1,Evento meteorológico
+PTB,Técnico,393,03/05/2018,Mayo,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,393-D,08/05/2018,1,Evento meteorológico
+PTB,Técnico,394,04/05/2018,Mayo,Maule,No value,San Clemente,Forestal,Incendio forestal,394-B,07/05/2018,1,Incendio forestal
+CBC,Técnico,395,05/05/2018,Mayo,Los Ríos,No value,-,Meteorológica,Evento meterológico,395-B,09/05/2018,3,Evento meteorológico
+CBC,Técnico,396,05/05/2018,Mayo,La Araucanía,No value,-,Meteorológica,Evento meterológico,396-A,08/05/2018,3,Evento meteorológico
+BCG,Técnico,394-B,07/05/2018,Mayo,Maule,No value,San Clemente,Forestal,Incendio forestal,394-C,07/05/2018,1,Incendio forestal
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Lonquimay,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Curacautín,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Vilcún,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Melipeuco,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Cunco,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Curarrehue,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Pucón,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,396-A,08/05/2018,Mayo,La Araucanía,No value,Villarrica,Meteorológica,Evento meterológico,396-B,09/05/2018,1,Evento meteorológico
+CPL,Técnico,407,08/05/2018,Mayo,Antofagasta,No value,-,Meteorológica,Evento meterológico,407-A,11/05/2018,2,Evento meteorológico
+CPL,Técnico,407,08/05/2018,Mayo,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,407-A,11/05/2018,1,Evento meteorológico
+CPL,Técnico,407,08/05/2018,Mayo,Antofagasta,No value,Taltal,Meteorológica,Evento meterológico,407-A,11/05/2018,1,Evento meteorológico
+BCG,Técnico,408,08/05/2018,Mayo,Los Lagos,No value,Puerto Octay,Volcánica,Actividad del Volcán Osorno,Vigente,Vigente,1,Actividad Volcán Osorno
+CBC,Técnico,408,08/05/2018,Mayo,Los Lagos,No value,Puerto Varas,Volcánica,Actividad del Volcán Osorno,Vigente,Vigente,1,Actividad Volcán Osorno
+BCG,Técnico,393-D,08/05/2018,Mayo,Atacama,No value,-,Meteorológica,Evento meterológico,393-F,10/05/2018,3,Evento meteorológico
+BCG,Técnico,409,09/05/2018,Mayo,Magallanes,No value,-,Meteorológica,Evento meterológico,409-A,11/05/2018,2,Evento meteorológico
+BCG,Técnico,409,09/05/2018,Mayo,Magallanes,No value,-,Meteorológica,Evento meterológico,409-A,11/05/2018,2,Evento meteorológico
+BCG,Técnico,409,09/05/2018,Mayo,Magallanes,No value,-,Meteorológica,Evento meterológico,409-A,11/05/2018,2,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Chañaral,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Huasco,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+BCG,Técnico,393-F,08/05/2018,Mayo,Atacama,No value,Caldera,Meteorológica,Evento meterológico,393-G,11/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Lonquimay,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Curacautín,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Vilcún,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Melipeuco,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Cunco,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Curarrehue,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Pucón,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,413,12/05/2018,Mayo,La Araucanía,No value,Villarrica,Meteorológica,Evento meterológico,413-A,13/05/2018,1,Evento meteorológico
+NSP,Técnico,414,12/05/2018,Mayo,Metropolitana,No value,Tiltil,Forestal,Incendio forestal,414-A,13/05/2018,1,Incendio forestal
+NSP,Técnico,415,13/05/2018,Mayo,Los Ríos,No value,-,Meteorológica,Evento meterológico,415-A,14/05/2018,3,Evento meteorológico
+NSP,Técnico,413-A,13/05/2018,Mayo,La Araucanía,No value,-,Meteorológica,Evento meterológico,413-B,14/05/2018,3,Evento meteorológico
+BCG,Técnico,420,16/05/2018,Mayo,Los Ríos,No value,-,Meteorológica,Evento meterológico,420-B,18/05/2018,3,Evento meteorológico
+NSP,Técnico,421,16/05/2018,Mayo,La Araucanía,No value,-,Meteorológica,Evento meterológico,421-A,18/05/2018,3,Evento meteorológico
+NSP,Técnico,422,16/05/2018,Mayo,Valparaíso,No value,-,Meteorológica,Evento meterológico,422-C,20/05/2018,2,Evento meteorológico
+VMT,Técnico,427,21/05/2018,Mayo,Maule,No value,Teno,Forestal,Incendio forestal,427-F,28/05/2018,1,Incendio forestal
+BCG,Técnico,430,22/05/2018,Mayo,Valparaíso,No value,-,Meteorológica,Evento meterológico,430-G,28/05/2018,1,Evento meteorológico
+VMT,Técnico,431,22/05/2018,Mayo,Metropolitana,No value,Curacaví,Forestal,Incendio forestal,431-A,23/05/2018,1,Incendio forestal
+BCG,Técnico,432,24/05/2018,Mayo,Aysén,No value,-,Meteorológica,Evento meterológico,432-B,27/05/2018,3,Evento meteorológico
+CPL,Técnico,434,26/05/2018,Mayo,La Araucanía,No value,-,Meteorológica,Evento meterológico,434-B,29/05/2018,3,Evento meteorológico
+CPL,Técnico,435,26/05/2018,Mayo,Los Ríos,No value,-,Meteorológica,Evento meterológico,435-A,28/05/2018,3,Evento meteorológico
+CPL,Técnico,436,26/05/2018,Mayo,Los Lagos,No value,-,Meteorológica,Evento meterológico,436-C,28/05/2018,3,Evento meteorológico
+CPL,Técnico,437,26/05/2018,Mayo,Biobío,No value,-,Meteorológica,Evento meterológico,437-A,28/05/2018,3,Evento meteorológico
+CPL,Técnico,438,27/05/2018,Mayo,Maule,No value,-,Meteorológica,Evento meterológico,438-B,30/05/2018,3,Evento meteorológico
+BCG,Técnico,440,28/05/2018,Mayo,Biobío,No value,Los Ángeles,Meteorológica,Aumento de caudal,440-B,29/05/2018,1,Aumento de caudal
+BCG,Técnico,442,28/05/2018,Mayo,Metropolitana,No value,-,Meteorológica,Evento meterológico,442-B,30/05/2018,3,Evento meteorológico
+CPL,Técnico,444,28/05/2018,Mayo,O'Higgins,No value,-,Meteorológica,Evento meterológico,444-F,30/05/2018,3,Evento meteorológico
+CPL,Técnico,446,28/05/2018,Mayo,Valparaíso,No value,-,Meteorológica,Evento meterológico,446-D,30/05/2018,3,Evento meteorológico
+CPL,Técnico,437-A,28/05/2018,Mayo,Biobío,No value,-,Meteorológica,Evento meterológico,437-E,29/05/2018,3,Evento meteorológico
+NSP,Técnico,453,30/05/2018,Mayo,Valparaíso,No value,-,Meteorológica,Evento meterológico,453-B,31/05/2018,2,Evento meteorológico
+CPL,Técnico,460,31/05/2018,Mayo,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,460-B,04/06/2018,1,Evento meteorológico
+CPL,Técnico,460,31/05/2018,Mayo,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,460-B,04/06/2018,1,Evento meteorológico
+CPL,Técnico,460,31/05/2018,Mayo,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,460-B,04/06/2018,1,Evento meteorológico
+CPL,Técnico,460,31/05/2018,Mayo,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,460-B,04/06/2018,1,Evento meteorológico
+CPL,Técnico,461,31/05/2018,Mayo,Antofagasta,No value,-,Meteorológica,Evento meterológico,461-B,07/06/2018,2,Evento meteorológico
+CPL,Técnico,461,31/05/2018,Mayo,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,461-B,07/06/2018,1,Evento meteorológico
+BCG,Técnico,462,31/05/2018,Mayo,Valparaíso,No value,Valparaíso,Otras alertas,Evento masivo,462-A,01/06/2018,1,Evento masivo
+BCG,Técnico,462,31/05/2018,Mayo,Valparaíso,No value,Viña del Mar,Otras alertas,Evento masivo,462-A,01/06/2018,1,Evento masivo
+CPL,Técnico,464,01/06/2018,Junio,Aysén,No value,-,Meteorológica,Evento meterológico,464-A,04/06/2018,3,Evento meteorológico
+PTB,Técnico,465,02/06/2018,Junio,Maule,No value,-,Meteorológica,Evento meterológico,465-A,04/06/2018,3,Evento meteorológico
+NSP,Técnico,466,02/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,466-A,04/06/2018,2,Evento meteorológico
+PTB,Técnico,467,03/06/2018,Junio,O'Higgins,No value,-,Meteorológica,Evento meterológico,467-A,04/06/2018,3,Evento meteorológico
+PTB,Técnico,468,03/06/2018,Junio,Los Ríos,No value,-,Meteorológica,Evento meterológico,468-B,05/06/2018,3,Evento meteorológico
+PTB,Técnico,470,04/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Evento meterológico,470-E,12/06/2018,3,Evento meteorológico
+BCG,Técnico,479,06/06/2018,Junio,Arica y Parinacota,No value,Arica,Otras alertas,Evento masivo,479-A,11/06/2018,1,Evento masivo
+PTB,Técnico,480,06/06/2018,Junio,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,480-A,07/06/2018,1,Evento meterológico
+PTB,Técnico,481,06/06/2018,Junio,Biobío,No value,-,Meteorológica,Evento meterológico,481-B,12/06/2018,2,Evento meterológico
+PTB,Técnico,481,06/06/2018,Junio,Biobío,No value,-,Meteorológica,Evento meterológico,481-B,12/06/2018,2,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Romeral,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Curicó,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Molina,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,San Clemente,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Colbún,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Linares,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Retiro,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,482,06/06/2018,Junio,Maule,No value,Parral,Meteorológica,Evento meterológico,482-B,12/06/2018,1,Evento meterológico
+PTB,Técnico,483,06/06/2018,Junio,Arica y Parinacota,No value,-,Meteorológica,Evento meterológico,483-E,20/06/2018,3,Evento meterológico
+VMT,Técnico,485,06/06/2018,Junio,Los Ríos,No value,-,Meteorológica,Evento meterológico,485-A,08/06/2018,3,Evento meteorológico
+BCG,ATR,***,07/06/2018,Junio,Arica y Parinacota,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Tarapacá,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Antofagasta,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Atacama,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Coquimbo,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Valparaíso,No value,Juan Fernandez,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Valparaíso,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,O'Higgins,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Maule,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Biobío,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,La Araucanía,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Los Ríos,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Los Lagos,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+BCG,ATR,***,07/06/2018,Junio,Aysén,No value,Borde costero ,Marejadas,Marejadas anormales,***,15/06/2018,1,Marejadas anormales
+PTB,Técnico,486,07/06/2018,Junio,O'Higgins,No value,-,Meteorológica,Evento meterológico,486-E,12/06/2018,3,Evento meteorológico
+PTB,Técnico,487,07/06/2018,Junio,Antofagasta,No value,-,Meteorológica,Evento meterológico,487-G,14/06/2018,2,Evento meteorológico
+PTB,Técnico,487,07/06/2018,Junio,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,487-G,14/06/2018,1,Evento meteorológico
+PTB,Técnico,482-A,07/06/2018,Junio,Maule,No value,-,Meteorológica,Evento meterológico,482-B,12/06/2018,3,Evento meteorológico
+PTB,Técnico,481-A,07/06/2018,Junio,Biobío,No value,-,Meteorológica,Evento meterológico,481-B,12/06/2018,3,Evento meteorológico
+VMT,Técnico,488,07/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Evento meterológico,488-D,13/06/2018,3,Evento meteorológico
+VMT,Técnico,489,07/06/2018,Junio,Valparaíso,No value,-,Meteorológica,Evento meterológico,489-H,13/06/2018,3,Evento meterológico
+VMT,Técnico,480-A,07/07/2018,Junio,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,480-B,08/06/2018,1,Evento meteorológico
+VMT,Técnico,480-A,07/07/2018,Junio,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,480-B,08/06/2018,1,Evento meteorológico
+VMT,Técnico,480-A,07/07/2018,Junio,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,480-B,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,La Higuera,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Vicuña,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Paihuano,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Río Hurtado,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Monte Patria,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Combarbalá,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Illapel,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+VMT,Técnico,490,07/06/2018,Junio,Coquimbo,No value,Salamanca,Meteorológica,Evento meterológico,492,08/06/2018,1,Evento meteorológico
+BCG,Técnico,480-B,08/06/2018,Junio,Atacama,No value,-,Meteorológica,Evento meterológico,480-D,11/06/2018,3,Evento meteorológico
+PTB,Técnico,491,08/06/2018,Junio,Aysén,No value,-,Meteorológica,Heladas,491-B,15/06/2018,3,Heladas
+PTB,Técnico,492,08/06/2018,Junio,Coquimbo,No value,-,Meteorológica,Sistema frontal frío,492-D,13/06/2018,3,Sistema frontal frío
+PTB,Técnico,493,08/06/2018,Junio,Los Ríos,No value,Panguipulli,Meteorológica,Sistema frontal frío,493-C,14/06/2018,1,Sistema frontal frío
+PTB,Técnico,493,08/06/2018,Junio,Los Ríos,No value,Futrono,Meteorológica,Sistema frontal frío,493-C,14/06/2018,1,Sistema frontal frío
+PTB,Técnico,493,08/06/2018,Junio,Los Ríos,No value,Lago Ranco,Meteorológica,Sistema frontal frío,493-C,14/06/2018,1,Sistema frontal frío
+PTB,Técnico,493,08/06/2018,Junio,Los Ríos,No value,Río Bueno,Meteorológica,Sistema frontal frío,493-C,14/06/2018,1,Sistema frontal frío
+PTB,Técnico,488-A,08/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,488-D,13/06/2018,3,Sistema frontal frío
+PTB,Técnico,489-A,08/06/2018,Junio,Valparaíso,No value,-,Meteorológica,Sistema frontal frío,489-H,13/06/2018,3,Sistema frontal frío
+PTB,Técnico,486-B,08/06/2018,Junio,O'Higgins,No value,-,Meteorológica,Sistema frontal frío,486-E,12/06/2018,3,Sistema frontal frío
+CBC,Técnico,495,09/06/2018,Junio,La Araucanía,No value,Lonquimay,Meteorológica,Nevadas,495-J,22/06/2018,1,Nevadas
+CBC,Técnico,495,09/06/2018,Junio,La Araucanía,No value,Curacautín,Meteorológica,Nevadas,495-C,16/06/2018,1,Nevadas
+CBC,Técnico,495,09/06/2018,Junio,La Araucanía,No value, Melipeuco,Meteorológica,Nevadas,495-F,19/06/2018,1,Nevadas
+CBC,Técnico,495,09/06/2018,Junio,La Araucanía,No value,Curarrehue,Meteorológica,Nevadas,495-F,19/06/2018,1,Nevadas
+CBC,Técnico,495,09/06/2018,Junio,La Araucanía,No value,Pucón,Meteorológica,Nevadas,495-C,16/06/2018,1,Nevadas
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-A,10/06/2018,2,Sistema frontal frío
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,La Florida,Meteorológica,Sistema frontal frío,497-A,10/06/2018,1,Sistema frontal frío
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,Peñalolén,Meteorológica,Sistema frontal frío,497-A,10/06/2018,1,Sistema frontal frío
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,La Reina,Meteorológica,Sistema frontal frío,497-A,10/06/2018,1,Sistema frontal frío
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,Las Condes,Meteorológica,Sistema frontal frío,497-A,10/06/2018,1,Sistema frontal frío
+CBC,Técnico,497,09/06/2018,Junio,Metropolitana,No value,Lo Barnechea,Meteorológica,Sistema frontal frío,497-A,10/06/2018,1,Sistema frontal frío
+CBC,Técnico,497-A,10/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-B,10/06/2018,2,Sistema frontal frío
+CBC,Técnico,497-A,10/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-B,10/06/2018,2,Sistema frontal frío
+CBC,Técnico,497-B,10/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-C,11/06/2018,2,Sistema frontal frío
+CBC,Técnico,497-B,10/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-C,11/06/2018,2,Sistema frontal frío
+CBC,Técnico,497-B,10/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,497-C,11/06/2018,2,Sistema frontal frío
+BCG,Técnico,480-D,11/06/2018,Junio,Metropolitana,No value,Vallenar,Meteorológica,Sistema frontal frío,480-E,12/06/2018,1,Sistema frontal frío
+BCG,Técnico,480-D,11/06/2018,Junio,Metropolitana,No value,Alto del Carmen,Meteorológica,Sistema frontal frío,480-E,12/06/2018,1,Sistema frontal frío
+CBC,Técnico,500,11/06/2018,Junio,Tarapacá,No value,-,Meteorológica,Evento meterológico,500-A,14/06/2018,2,Evento meteorológico
+CBC,Técnico,501,11/06/2018,Junio,Magallanes,No value,Laguna Blanca,Meteorológica,Evento meterológico,501-A,15/06/2018,1,Evento meteorológico
+CBC,Técnico,501,11/06/2018,Junio,Magallanes,No value,Timaukel,Meteorológica,Evento meterológico,501-A,15/06/2018,1,Evento meteorológico
+CBC,Técnico,501,11/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,501-A,15/06/2018,2,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Cañete,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Contulmo,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Quilaco,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Santa Bárbara,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Alto Biobío,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Antuco,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Tucapel,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Yungay,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Puinto,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,Coihueco,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,481-B,12/06/2018,Junio,Biobío,No value,San Fabián,Meteorológica,Evento meterológico,481-C,19/06/2018,1,Evento meteorológico
+CBC,Técnico,502,12/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Heladas,502-A,14/06/2018,3,Heladas
+CBC,Técnico,492-D,13/06/2018,Junio,Coquimbo,No value,-,Meteorológica,Sistema frontal frío,492-D,13/06/2018,3,Sistema frontal frío
+CBC,Técnico,488-D,13/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Sistema frontal frío,488-D,13/06/2018,3,Sistema frontal frío
+CBC,Técnico,489-H,13/06/2018,Junio,Valparaíso,No value,-,Meteorológica,Sistema frontal frío,489-H,13/06/2018,3,Sistema frontal frío
+CPL,Técnico,500-A,14/06/2018,Junio,Tarapacá,No value,-,Meteorológica,Evento meterológico,500-C,15/06/2018,3,Evento meteorológico
+CPL,Técnico,487-G,14/06/2018,Junio,Antofagasta,No value,-,Meteorológica,Evento meterológico,487-H,15/06/2018,3,Evento meteorológico
+CBC,Técnico,508,14/06/2018,Junio,Antofagasta,No value,-,Meteorológica,Evento meterológico,508-C,18/06/2018,2,Evento meteorológico
+BCG,Técnico,510,15/06/2018,Junio,Los Lagos,No value,-,Meteorológica,Sistema frontal,510-C,18/06/2018,2,Sistema frontal
+BCG,Técnico,510,15/06/2018,Junio,Los Lagos,No value,-,Meteorológica,Sistema frontal,510-C,18/06/2018,2,Sistema frontal
+CBC,Técnico,511,15/06/2018,Junio,Aysén,No value,-,Meteorológica,Sistema frontal,511-B,18/06/2018,3,Sistema frontal
+CBC,Técnico,512,15/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,512-A,16/06/2018,2,Evento meteorológico
+CBC,Técnico,512,15/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,512-A,16/06/2018,2,Evento meteorológico
+CBC,Técnico,513,15/06/2018,Junio,Valparaíso,No value,-,Meteorológica,Marejadas anormales,513-A,23/06/2018,2,Marejadas anormales
+BCG,Técnico,518,18/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,518-C,21/06/2018,3,Evento meteorológico
+BCG,Técnico,527,20/06/2018,Junio,Los Lagos,No value,Puyehue,Volcánica,Actividad del Complejo Volcánico Puyehue - Cordón Caulle,Vigente,Vigente,1,Actividad del Complejo Volcánico Puyehue - Cordón Caulle
+NSP,Técnico,528,20/06/2018,Junio,Los Ríos,No value,Futrono,Volcánica,Actividad del Complejo Volcánico Puyehue - Cordón Caulle,Vigente,Vigente,1,Actividad del Complejo Volcánico Puyehue - Cordón Caulle
+NSP,Técnico,528,20/06/2018,Junio,Los Ríos,No value,Río Bueno,Volcánica,Actividad del Complejo Volcánico Puyehue - Cordón Caulle,Vigente,Vigente,1,Actividad del Complejo Volcánico Puyehue - Cordón Caulle
+NSP,Técnico,528,20/06/2018,Junio,Los Ríos,No value,Lago Ranco,Volcánica,Actividad del Complejo Volcánico Puyehue - Cordón Caulle,Vigente,Vigente,1,Actividad del Complejo Volcánico Puyehue - Cordón Caulle
+NSP,Técnico,531,22/06/2018,Junio,Aysén,No value,-,Meteorológica,Heladas,531-A,23/06/2018,3,Heladas
+NSP,Técnico,532,22/06/2018,Junio,Los Ríos,No value,-,Meteorológica,Heladas,532-A,24/06/2018,3,Heladas
+NSP,Técnico,533,22/06/2018,Junio,Antofagasta,No value,-,Meteorológica,Viento,533-B,27/06/2018,2,Viento
+NSP,Técnico,533,22/06/2018,Junio,Antofagasta,No value,Antofagasta,Meteorológica,Viento,533-B,27/06/2018,1,Viento
+VMT,Técnico,538,24/06/2018,Junio,Los Ríos,No value,-,Meteorológica,Sistema frontal frío,538-C,26/06/2018,3,Sistema Frontal Frío
+VMT,Técnico,539,24/06/2018,Junio,Biobío,No value,-,Meteorológica,Sistema frontal frío,539-B,27/06/2018,3,Sistema Frontal Frío
+VMT,Técnico,540,24/06/2018,Junio,Los Lagos,No value,-,Meteorológica,Sistema frontal frío,540-C,27/06/2018,2,Sistema Frontal Frío
+VMT,Técnico,540,24/06/2018,Junio,Los Lagos,No value,-,Meteorológica,Sistema frontal frío,540-C,27/06/2018,2,Sistema Frontal Frío
+VMT,Técnico,541,24/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Sistema frontal frío,546-C,27/06/2018,3,Sistema Frontal Frío
+VMT,Técnico,543,25/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,543-A,29/06/2018,3,Evento meteorológico
+VMT,Técnico,545,26/06/2018,Junio,Biobío,No value,-,Meteorológica,Sistema frontal frío,545-E,07/07/2018,2,Sistema Frontal Frío
+VMT,Técnico,538-C,26/06/2018,Junio,Los Ríos,No value,Panguipulli,Meteorológica,Sistema frontal frío,538-E,27/06/2018,1,Sistema Frontal Frío
+VMT,Técnico,538-C,26/06/2018,Junio,Los Ríos,No value,Rio Bueno,Meteorológica,Sistema frontal frío,538-E,27/06/2018,1,Sistema Frontal Frío
+VMT,Técnico,538-C,26/06/2018,Junio,Los Ríos,No value,Futrono,Meteorológica,Sistema frontal frío,538-E,27/06/2018,1,Sistema Frontal Frío
+VMT,Técnico,538-C,26/06/2018,Junio,Los Ríos,No value,Lago Ranco,Meteorológica,Sistema frontal frío,538-E,27/06/2018,1,Sistema Frontal Frío
+VMT,Técnico,546,26/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Sistema frontal frío,546-C,28/06/2018,2,Sistema Frontal Frío
+VMT,Técnico,549,27/06/2018,Junio,Valparaíso,No value,-,Meteorológica,Evento meterológico,549-C,02/07/2018,3,Evento meteorológico
+CPL,Técnico,539-B,27/06/2018,Junio,Biobío,No value,-,Meteorológica,Sistema frontal frío,539-E,07/07/2018,2,Sistema Frontal Frío
+CPL,Técnico,539-B,27/06/2018,Junio,Biobío,No value,-,Meteorológica,Sistema frontal frío,574,05/07/2018,2,Sistema Frontal Frío
+CPL,Técnico,539-B,27/06/2018,Junio,Biobío,No value,-,Meteorológica,Sistema frontal frío,539-E,Vigente,2,Sistema Frontal Frío
+BCG,Técnico,550,27/06/2018,Junio,O'Higgins,No value,-,Meteorológica,Evento meterológico,550-B,02/07/2018,3,Evento meteorológico
+VMT,Técnico,551,27/06/2018,Junio,La Araucanía,No value,Cunco,Meteorológica,Crecida,551-A,28/06/2018,1,Crecida
+VMT,Técnico,551,27/06/2018,Junio,La Araucanía,No value,Freire,Meteorológica,Crecida,551-A,28/06/2018,1,Crecida
+VMT,Técnico,552,27/06/2018,Junio,Coquimbo,No value,-,Meteorológica,Evento meterológico,552-G,07/07/2018,3,Evento meteorológico
+VMT,Técnico,553,27/06/2018,Junio,Atacama,No value,Huasco,Meteorológica,Evento meterológico,553-A,29/06/2018,2,Evento meteorológico
+VMT,Técnico,554,27/06/2018,Junio,Antofagasta,No value,-,Meteorológica,Evento meterológico,554-E,06/07/2018,2,Evento meteorológico
+VMT,Técnico,554,27/06/2018,Junio,Antofagasta,No value,Antofagasta,Meteorológica,Evento meterológico,554-E,06/07/2018,1,Evento meteorológico
+VMT,Técnico,540-C,27/06/2018,Junio,Los Lagos,No value,-,Meteorológica,Evento meterológico,540-L,04/07/2018,3,Evento meteorológico
+CBC,Técnico,556,27/06/2018,Junio,La Araucanía,No value,Temuco,Meteorológica,Crecida,556-B,28/06/2018,1,Crecida
+CBC,Técnico,546-C,28/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Sistema frontal frío,546-D,30/06/2018,2,Sistema Frontal Frío
+CBC,Técnico,546-C,28/06/2018,Junio,La Araucanía,No value,Ercilla,Meteorológica,Sistema frontal frío,546-D,30/06/2018,1,Sistema Frontal Frío
+CBC,Técnico,546-C,28/06/2018,Junio,La Araucanía,No value,Collipulli,Meteorológica,Sistema frontal frío,546-D,30/06/2018,1,Sistema Frontal Frío
+CBC,Técnico,557,28/06/2018,Junio,Aysén,No value,-,Meteorológica,Evento meterológico,557-A,30/06/2018,3,Evento meteorológico
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Angol,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Curacautín,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Lonquimay,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Los Sauces,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Lumaco,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Purén,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Renaico,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Traiguén ,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+BCG,Técnico,541,28/06/2018,Junio,La Araucanía,No value,Victoria,Meteorológica,Sistema frontal frío,541-C,29/06/2018,1,Sistema Frontal Frío
+VMT,ATR,***,28/06/2018,Junio,Arica y Parinacota,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Tarapacá,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Antofagasta,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Atacama,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Coquimbo,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Valparaíso,No value,Juan Fernandez,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Valparaíso,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,O'Higgins,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Maule,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Biobío,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,La Araucanía,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Los Ríos,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Los Lagos,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,ATR,***,28/06/2018,Junio,Aysén,No value,Borde costero ,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+VMT,Técnico,558,28/06/2018,Junio,Los Ríos,No value,-,Meteorológica,Evento meterológico,558-C,01/07/2018,1,Evento meteorológico
+VMT,Técnico,559,28/06/2018,Junio,Metropolitana,No value,-,Meteorológica,Evento meterológico,559-A,02/07/2018,3,Evento meteorológico
+VMT,Técnico,556-B,27/06/2018,Junio,La Araucanía,No value,Temuco,Meteorológica,Crecida,556-C,04/07/2018,1,Crecida
+CBC,Técnico,553-A,29/08/2018,Junio,Atacama,No value,-,Meteorológica,Evento meterológico,553-B,30/06/2018,2,Evento meteorológico
+CBC,Técnico,553-A,29/08/2018,Junio,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,553-B,30/06/2018,1,Evento meteorológico
+CBC,Técnico,553-A,29/08/2018,Junio,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,553-B,30/06/2018,1,Evento meteorológico
+CBC,Técnico,553-A,29/08/2018,Junio,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,553-B,30/06/2018,1,Evento meteorológico
+VMT,Técnico,543-A,29/06/2018,Junio,Magallanes,No value,Timaukel,Meteorológica,Evento meterológico,543-B,30/06/2018,1,Evento meteorológico
+VMT,Técnico,543-A,29/06/2018,Junio,Magallanes,No value,Cabo de Hornos,Meteorológica,Evento meterológico,543-B,30/06/2018,1,Evento meteorológico
+CBC,Técnico,546-D,30/06/2018,Junio,La Araucanía,No value,-,Meteorológica,Sistema frontal frío,546-E,04/07/2018,2,Sistema Frontal Frío
+CBC,Técnico,546-D,30/06/2018,Junio,La Araucanía,No value,Ercilla,Meteorológica,Sistema frontal frío,546-E,04/07/2018,1,Sistema Frontal Frío
+CBC,Técnico,553-B,30/06/2018,Junio,Atacama,No value,-,Meteorológica,Evento meterológico,553-C,02/07/2018,3,Evento meteorológico
+CPL,Técnico,543-B,30/06/2018,Junio,Magallanes,No value,-,Meteorológica,Evento meterológico,543-C,06/07/2018,3,Evento meteorológico
+CPL,Técnico,562,01/07/2018,Julio,Aysén,No value,-,Meteorológica,Evento meterológico,562-B,04/07/2018,3,Heladas
+CPL,Técnico,558-C,01/07/2018,Julio,Los Ríos,No value,Panguipulli,Meteorológica,Evento meterológico,558-D,01/07/2018,1,Evento meteorológico
+CPL,Técnico,558-C,01/07/2018,Julio,Los Ríos,No value,Futrono,Meteorológica,Evento meterológico,558-D,01/07/2018,1,Evento meteorológico
+CPL,Técnico,558-C,01/07/2018,Julio,Los Ríos,No value,Río Bueno,Meteorológica,Evento meterológico,558-D,01/07/2018,1,Evento meteorológico
+CPL,Técnico,558-C,01/07/2018,Julio,Los Ríos,No value,Lago Ranco,Meteorológica,Evento meterológico,558-D,01/07/2018,1,Evento meteorológico
+CPL,Técnico,558-D,01/07/2018,Julio,Los Ríos,No value,-,Meteorológica,Evento meterológico,558-E,04/07/2018,3,Evento meteorológico
+CPL,Técnico,563,01/07/2018,Julio,Magallanes,No value,Cabo de Hornos,Meteorológica,Evento meterológico,563-A,06/07/2018,1,Evento meteorológico
+CPL,Técnico,565,02/07/2018,Julio,La Araucanía,No value,-,Meteorológica,Evento meterológico,565-A,07/07/2018,3,Evento meteorológico
+NSP,ATR,***,02/07/2018,Julio,Valparaíso,No value,Isla de Pascua,Marejadas,Marejadas anormales,***,07/07/2018,1,Marejadas anormales
+NSP,Técnico,553-C,02/07/2018,Julio,Atacama,No value,Diego de Almagro,Meteorológica,Viento,553-D,03/07/2018,1,Viento
+NSP,Técnico,553-C,02/07/2018,Julio,Atacama,No value,Copiapó,Meteorológica,Viento,553-D,03/07/2018,1,Viento
+NSP,Técnico,553-C,02/07/2018,Julio,Atacama,No value,Tierra Amarilla,Meteorológica,Viento,553-D,03/07/2018,1,Viento
+NSP,Técnico,553-C,02/07/2018,Julio,Atacama,No value,Vallenar,Meteorológica,Viento,553-D,03/07/2018,1,Viento
+NSP,Técnico,553-C,02/07/2018,Julio,Atacama,No value,Alto del Carmen,Meteorológica,Viento,553-D,03/07/2018,1,Viento
+BCG,Técnico,567,03/07/2018,Julio,O'Higgins,No value,-,Meteorológica,Evento meterológico,567-F,07/07/2018,3,Evento meteorológico
+NSP,Técnico,553-D,03/07/2018,Julio,Atacama,No value,-,Meteorológica,Evento meterológico,553-E,04/07/2018,3,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+CPL,Técnico,568,03/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,568-J,07/07/2018,2,Evento meteorológico
+BCG,Técnico,569,04/07/2018,julio,Metropolitana,No value,-,Meteorológica,Sistema Frontal,569-D,06/07/2018,3,Sistema Frontal
+BCG,Técnico,570,04/07/2018,julio,Maule,No value,-,Meteorológica,Sistema frontal,570-A,07/07/2018,3,Sistema Frontal
+CPL,Técnico,553-E,04/07/2018,Julio,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,553-F,05/07/2018,1,Evento meteorológico
+CPL,Técnico,553-E,04/07/2018,Julio,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,553-F,05/07/2018,1,Evento meteorológico
+CPL,Técnico,553-E,04/07/2018,Julio,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,553-F,05/07/2018,1,Evento meteorológico
+CPL,Técnico,553-E,04/07/2018,Julio,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,553-F,05/07/2018,1,Evento meteorológico
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Temuco,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Padre Las Casas,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Nueva Imperial,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Toltén,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Curarrehue,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,546-E,04/07/2018,Julio,La Araucanía,No value,Melipeuco,Meteorológica,Sistema frontal,546-F,09/07/2018,1,Sistema frontal
+CPL,Técnico,574,05/07/2018,Julio,Biobío,No value,-,Meteorológica,Sistema frontal,574-A,07/07/2018,2,Sistema frontal
+VMT,Técnico,575,05/07/2018,Julio,Valparaíso,No value,-,Meteorológica,Evento meterológico,575-B,08/07/2018,2,Evento meteorológico
+CPL,Técnico,578,06/07/2018,Julio,Maule,No value,Molina,Volcánica,Actividad del Complejo Volcánico Planchón-Peteroa,Vigente,Vigente,1,Actividad del Complejo Volcanico Planchón Peteroa
+CPL,Técnico,578,06/07/2018,Julio,Maule,No value,Curicó,Volcánica,Actividad del Complejo Volcánico Planchón-Peteroa,Vigente,Vigente,1,Actividad del Complejo Volcanico Planchón Peteroa
+CPL,Técnico,578,06/07/2018,Julio,Maule,No value,Romeral,Volcánica,Actividad del Complejo Volcánico Planchón-Peteroa,Vigente,Vigente,1,Actividad del Complejo Volcanico Planchón Peteroa
+CPL,Técnico,578,06/07/2018,Julio,Maule,No value,Teno,Volcánica,Actividad del Complejo Volcánico Planchón-Peteroa,Vigente,Vigente,1,Actividad del Complejo Volcanico Planchón Peteroa
+NSP,ATR,***,07/07/2018,Julio,Valparaíso,No value,-,Marejadas,Marejadas anormales,***,10/07/2018,2,Marejadas anormales
+PTB,Técnico,584,09/07/2018,Julio,Los Ríos,No value,Panguipulli,Meteorológica,Precipitaciones,584-B,14/07/2018,1,Precipitaciones
+PTB,Técnico,584,09/07/2018,Julio,Los Ríos,No value,Lago Ranco,Meteorológica,Precipitaciones,584-B,14/07/2018,1,Precipitaciones
+PTB,Técnico,584,09/07/2018,Julio,Los Ríos,No value,Futrono,Meteorológica,Precipitaciones,584-B,14/07/2018,1,Precipitaciones
+PTB,Técnico,584,09/07/2018,Julio,Los Ríos,No value,Río Bueno,Meteorológica,Precipitaciones,584-B,14/07/2018,1,Precipitaciones
+BCG,Técnico,586,11/07/2018,Julio ,La Araucanía,No value,-,Meteorológica,Precipitaciones,586-B,14/07/2018,3,Precipitaciones
+PTB,Técnico,587,11/07/2018,Julio,Los Lagos,No value,-,Meteorológica,Precipitaciones,587-A,14/07/2018,3,Precipitaciones
+BCG,Técnico,588,12/07/2018,Julio ,O'Higgins,No value,-,Forestal,Incendio forestal,588-B,12/07/2018,1,Incendio forestal
+PTB,Técnico,589,13/07/2018,Julio,Tarapacá,No value,-,Otras alertas,Evento masivo,589-A,17/07/2018,3,Evento masivo
+VMT,Técnico,591,14/07/2018,Julio,Arica y Parinacota,No value,-,Meteorológica,Evento meterológico,591-A,14/07/2018,3,Evento meteorológico
+VMT,Técnico,592,14/07/2018,Julio,Tarapacá,No value,-,Meteorológica,Evento meterológico,592-A,14/07/2018,3,Evento meteorológico
+CBC,Técnico,593,14/07/2018,Julio,Magallanes,No value,-,Meteorológica,Heladas,Vigente,Vigente,3,Evento meteorológico
+CBC,Técnico,599,15/07/2018,Julio,Antofagasta,No value,-,Meteorológica,Viento,599-B,16/07/2018,2,Evento meteorológico
+CBC,Técnico,599,15/07/2018,Julio,Antofagasta,No value,Antofagasta,Meteorológica,Viento,599-B,16/07/2018,1,Evento meteorológico
+CBC,Técnico,602,16/07/2018,Julio,Los Ríos,No value,-,Meteorológica,Heladas,Vigente,Vigente,3,Evento meteorológico
+CBC,Técnico,603,16/07/2018,Julio,Atacama,No value,Diego de Almagro,Meteorológica,Evento meterológico,Vigente,Vigente,1,Heladas
+CBC,Técnico,603,16/07/2018,Julio,Atacama,No value,Copiapó,Meteorológica,Evento meterológico,Vigente,Vigente,1,Heladas
+CBC,Técnico,603,16/07/2018,Julio,Atacama,No value,Tierra Amarilla,Meteorológica,Evento meterológico,Vigente,Vigente,1,Heladas
+CBC,Técnico,603,16/07/2018,Julio,Atacama,No value,Alto del Carmen,Meteorológica,Evento meterológico,Vigente,Vigente,1,Heladas
+CBC,Técnico,604,16/07/2018,Julio,Los Lagos,No value,-,Meteorológica,Heladas,Vigente,Vigente,3,Heladas
+CBC,Técnico,606,16/07/2018,Julio,La Araucanía,No value,-,Meteorológica,Heladas,Vigente,Vigente,3,Heladas
+CPL,Técnico,599-B,16/07/2018,Julio,Antofagasta,No value,-,Meteorológica,Evento meterológico,Vigente,Vigente,3,Evento meteorológico

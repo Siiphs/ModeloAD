@@ -1,0 +1,454 @@
+user,tipo_informe,num_informe,fecha_update,mes,region,provincia,comuna,tipo_alerta,motivo_alerta,num_cierre,fecha_cierre,alert_code,detalle
+VMT,Técnico,005,01/01/2017,Enero,Arica y Parinacota,-,-,Hidrometeorológica,Precipitaciones estivales altiplánicas,005-A,10/01/2017,3,Precipitaciones estivales altiplánicas
+VMT,Técnico,010,02/01/2017,Enero,Los Lagos,Llanquihue,-,Hidrometeorológica,Tormentas eléctricas,010-A,04/01/2017,2,Tormentas eléctricas
+VMT,Técnico,010,02/01/2017,Enero,Los Lagos,Chiloé,-,Hidrometeorológica,Tormentas eléctricas,010-A,04/01/2017,2,Tormentas eléctricas
+VMT,Técnico,010,02/01/2017,Enero,Los Lagos,Palena,-,Hidrometeorológica,Tormentas eléctricas,010-A,04/01/2017,2,Tormentas eléctricas
+VMT,Técnico,014,02/01/2017,Enero,Aysén,Aysén,-,Hidrometeorológica,Tormentas eléctricas,014-A,04/01/2017,2,Tormentas eléctricas
+VMT,Técnico,014,02/01/2017,Enero,Aysén,Coyhaique,-,Hidrometeorológica,Tormentas eléctricas,014-A,04/01/2017,2,Tormentas eléctricas
+VMT,Técnico,015,02/01/2017,Enero,Biobío,-,Chillán Viejo,Forestal,Incendio forestal,015-A,02/01/2017,1,Incendio forestal
+VMT,Técnico,015,02/01/2017,Enero,Biobío,Ñuble,-,Forestal,Incendio forestal,015-A,02/01/2017,2,Incendio forestal
+NSP,Técnico,015-A,02/01/2017,Enero,Biobío,-,-,Forestal,Incendio forestal,106-A,19/01/2017,3,Incendio forestal
+PTB,Técnico,018,03/01/2017,Enero,O'Higgins,-,Chépica,Forestal,Incendio forestal,018-A,05/01/2017,1,Incendio forestal
+VMT,Técnico,019,03/01/2017,Enero,O'Higgins,-,Pichidegua,Forestal,Incendio forestal,019-A,04/01/2017,1,Incendio forestal
+VMT,Técnico,024,04/01/2017,Enero,O'Higgins,-,Navidad,Forestal,Incendio forestal,024-A,05/01/2017,1,Incendio forestal
+VMT,Técnico,026,04/01/2017,Enero,Biobío,-,Chillán,Forestal,Incendio forestal,026-A,04/01/2017,1,Incendio forestal
+VMT,Técnico,026,04/01/2017,Enero,Biobío,-,Chillán Viejo,Forestal,Incendio forestal,026-A,04/01/2017,1,Incendio forestal
+VMT,Técnico,028,04/01/2017,Enero,O'Higgins,-,Litueche,Forestal,Incendio forestal,028-A,04/01/2017,1,Incendio forestal
+VMT,Técnico,030,04/01/2017,Enero,Biobío,Concepción,-,Forestal,Incendio forestal,030-A,04/01/2017,2,Incendio forestal
+NSP,Técnico,028-A,04/01/2017,Enero,O'Higgins,-,Litueche,Forestal,Incendio forestal,028-B,07/01/2017,1,Incendio forestal
+PTB,Técnico,028-B,07/01/2017,Enero,O'Higgins,-,Litueche,Forestal,Incendio forestal,028-C,07/01/2017,1,Incendio forestal
+PTB,Técnico,056,08/01/2017,Enero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones en precordillera y cordillera,056-H,20/01/2017,2,Precipitaciones en precordillera y cordillera
+PTB,Técnico,056,08/01/2017,Enero,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones en precordillera y cordillera,056-B,11/01/2017,1,Precipitaciones en precordillera y cordillera
+NSP,Técnico,055-A,08/01/2017,Enero,Los Lagos,No value,No value,Hidrometeorológica,Precipitaciones,055-G,13/01/2017,2,Precipitaciones
+CPL,Técnico,058,09/01/2017,Enero,O'Higgins,-,-,Forestal,Incendio forestal,58-A,15/01/2017,3,Incendio forestal
+JVB,Técnico,060,09/01/2017,Enero,Maule,-,-,Forestal,Incendio forestal,060-B,17/01/2017,3,Incendio forestal
+JVB,Técnico,061,09/01/2017,Enero,Magallanes,Última Esperanza,-,Hidrometeorológica,Sistema frontal,061-A,12/01/2017,2,Sistema frontal
+JVB,Técnico,062,09/01/2017,Enero,O'Higgins,No value,No value,Forestal,Incendio forestal,062-B,11/01/2017,1,Incendio forestal
+CPL,Técnico,067,10/01/2017,Enero,Aysén,-,Cochrane ,Hidrometeorológica,Vaciamiento del Lago Cachet II,067-A,12/01/2017,1,Vaciamiento del Lago Cachet II
+CPL,Técnico,067,10/01/2017,Enero,Aysén,-,Tortel,Hidrometeorológica,Vaciamiento del Lago Cachet II,067-A,12/01/2017,1,Vaciamiento del Lago Cachet II
+PTB,Técnico,005-A,10/01/2017,Enero,Arica y Parinacota,-,-,Hidrometeorológica,Precipitaciones en precordillera y cordillera,005-C,16/01/2017,3,Precipitaciones en precordillera y cordillera
+PTB,Técnico,1103-A,10/01/2017,Enero,Tarapacá,-,-,Hidrometeorológica,Precipitaciones en precordillera y cordillera,1103-D,23/01/2017,3,Precipitaciones en precordillera y cordillera
+PTB,Técnico,056-B,11/01/2017,Enero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones en precordillera y cordillera,056-C,13/01/2017,2,Precipitaciones en precordillera y cordillera
+CPL,Técnico,073,12/01/2017,Enero,Maule,-,San Rafael,Forestal,Incendio forestal,073-A,14/01/2017,1,Incendio forestal
+PTB,Técnico,074,12/01/2017,Enero,Maule,-,Parral,Forestal,Incendio forestal,074-A,14/01/2017,1,Incendio forestal
+JVB,Técnico,076,13/01/2017,Enero,Magallanes,-,Torres del Paine,Hidrometeorológica,Viento fuerte,076-A,15/01/2017,1,Viento fuerte 
+CPL,Técnico,056-C,13/01/2017,Enero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones en precordillera y cordillera,056-H,20/01/2017,2,Precipitaciones en precordillera y cordillera
+CPL,Técnico,079,13/01/2017,Enero,Maule,-,Maule,Forestal,Incendio forestal,079-A,14/01/2017,1,Incendio forestal
+CPL,Técnico,082,13/01/2017,Enero,O'Higgins,-,La Estrella,Forestal,Incendio forestal,082-A,13/01/2017,1,Incendio forestal
+JVB,Técnico,90,14/01/2017,Enero,O'Higgins,Cardenal Caro,-,Forestal,Incendio forestal,90-A,14/01/2017,2,Incendio forestal
+JVB,Técnico,91,14/01/2017,Enero,O'Higgins,No value,No value,Forestal,Incendio forestal,91-A,14/01/2017,1,Incendio forestal
+JVB,Técnico,92,14/01/2017,Enero,O'Higgins,-,Las Cabras,Forestal,Incendio forestal,92-A,15/01/2017,1,Incendio forestal
+JVB,Técnico,93,14/01/2017,Enero,O'Higgins,-,Doñihue,Forestal,Incendio forestal,93-A,15/01/2017,1,Incendio forestal
+JVB,Técnico,90-A,14/01/2017,Enero,O'Higgins,Cardenal Caro,-,Forestal,Incendio forestal,090-B,16/01/2017,2,Incendio forestal
+JVB,Técnico,91-A,14/01/2017,Enero,O'Higgins,-,Santa Cruz,Forestal,Incendio forestal,142-,20/01/2017,1,Incendio forestal
+JVB,Técnico,91-C,14/01/2017,Enero,O'Higgins,-,Palmilla,Forestal,Incendio forestal,142-,20/01/2017,1,Incendio forestal
+JVB,Técnico,91-C,14/01/2017,Enero,O'Higgins,-,Peralillo,Forestal,Incendio forestal,142-,20/01/2017,1,Incendio forestal
+JVB,Técnico,96,15/01/2017,Enero,Los Lagos,Llanquihue,-,Hidrometeorológica,Precipitaciones y viento normal a moderado,096-A,17/01/2017,2,Precipitaciones y viento normal a moderado
+JVB,Técnico,96,15/01/2017,Enero,Los Lagos,Chiloé,-,Hidrometeorológica,Precipitaciones y viento normal a moderado,096-A,17/01/2017,2,Precipitaciones y viento normal a moderado
+JVB,Técnico,96,15/01/2017,Enero,Los Lagos,Palena,-,Hidrometeorológica,Precipitaciones y viento normal a moderado,096-A,17/01/2017,2,Precipitaciones y viento normal a moderado
+JVB,Técnico,97,15/01/2017,Enero,Maule,-,Vichuquén,Forestal,Incendio forestal,097-C,07/02/2017,1,Incendio forestal
+JVB,Técnico,98,15/01/2017,Enero,O'Higgins,-,-,Forestal,Incendio forestal,142-,20/01/2017,3,Incendio forestal
+CPL,Técnico,005-C,16/01/2017,Enero,Arica y Parinacota,Parinacota,-,Hidrometeorológica,Precipitaciones,005-F,03/02/2017,2,Precipitaciones
+CPL,Técnico,100,16/01/2017,Enero,Magallanes,No value,No value,Hidrometeorológica,Viento,100-A,18/01/2017,3,Viento
+CPL,Técnico,101,16/01/2017,Enero,Magallanes,-,-,Forestal,Incendio forestal,101-A,06/02/2017,3,Incendio forestal
+JVB,Técnico,102,16/01/2017,Enero,Biobío,-,Yumbel,Forestal,Incendio forestal,106,16/01/2017,1,Incendio forestal
+JVB,Técnico,103,16/01/2017,Enero,Biobío,-,Hualpén,Forestal,Incendio forestal,106-A,19/01/2017,1,Incendio forestal
+JVB,Técnico,104,16/01/2017,Enero,Biobío,-,Chillán,Forestal,Incendio forestal,104-B,17/01/2017,1,Incendio forestal
+JVB,Técnico,106,16/01/2017,Enero,Biobío,-,Biobío,Forestal,Incendio forestal,106-A,19/01/2017,1,Incendio forestal
+JVB,Técnico,060-B,17/01/2017,Enero,Maule,-,-,Forestal,Incendio forestal,060-C,12/02/2017,3,Incendio forestal
+JVB,Técnico,110,17/01/2017,Enero,O'Higgins,-,Pumanque,Forestal,Incendio forestal,142-,20/01/2017,1,Incendio forestal
+PTB,Técnico,112,07/01/2017,Enero,Maule,-,Hualañé,Forestal,Incendio forestal,097-C,07/02/2017,1,Incendio forestal
+PTB,Técnico,113,18/01/2017,Enero,O'Higgins,-,Paredones,Forestal,Incendio forestal,118,18/01/2017,1,Incendio forestal
+PTB,Técnico,113,18/01/2017,Enero,O'Higgins,-,Lolol,Forestal,Incendio forestal,117,18/01/2017,1,Incendio forestal
+PTB,Técnico,114,18/01/2017,Enero,O'Higgins,-,Marchigue,Forestal,Incendio forestal,114-A,18/01/2017,1,Incendio forestal
+CPL,Técnico,114-A,18/01/2017,Enero,O'Higgins,-,Marchigue,Forestal,Incendio forestal,142,20/01/2017,1,Incendio forestal
+JVB,Técnico,117,18/01/2017,Enero,O'Higgins,Colchagua,-,Forestal,Incendio forestal,142,20/01/2017,2,Incendio forestal
+JVB,Técnico,118,18/01/2017,Enero,O'Higgins,Cardenal Caro,-,Forestal,Incendio forestal,142,20/01/2017,2,Incendio forestal
+CPL,Técnico,121-A,19/01/2017,Enero,O'Higgins,-,Nogales,Forestal,Incendio forestal,121-B,19/01/2017,1,Incendio forestal
+JVB,Técnico,132,19/01/2017,Enero,O'Higgins,-,Paredones,Forestal,Incendio forestal,142,20/01/2017,1,Incendio forestal
+JVB,Técnico,133,19/01/2017,Enero,Maule,-,Cauquenes,Forestal,Incendio forestal,133-A,03/02/2017,1,Incendio forestal
+JVB,Técnico,134,19/01/2017,Enero,Maule,-,Constitución ,Forestal,Incendio forestal,134-A,21/01/2017,1,Incendio forestal
+JVB,Técnico,106-A,19/01/2017,Enero,Biobío,-,-,Forestal,Incendio forestal,106-B,21/01/2017,1,Incendio forestal
+PTB,Técnico,138,19/01/2017,Enero,Antofagasta,-,Antofagasta,Hidrometeorológica,Vientos y altas temperaturas,138-N,06/02/2017,1,Vientos y altas temperaturas
+PTB,Técnico,138,19/01/2017,Enero,Antofagasta,-,Mejillones,Hidrometeorológica,Vientos y altas temperaturas,138-N,06/02/2017,1,Vientos y altas temperaturas
+PTB,Técnico,138,19/01/2017,Enero,Antofagasta,-,Taltal,Hidrometeorológica,Vientos y altas temperaturas,138-N,06/02/2017,1,Vientos y altas temperaturas
+PTB,Técnico,138,19/01/2017,Enero,Antofagasta,-,Tocopilla,Hidrometeorológica,Vientos y altas temperaturas,138-N,06/02/2017,1,Vientos y altas temperaturas
+CPL,Técnico,118-A,20/01/2017,Enero,O'Higgins,Cardenal Caro,-,Forestal,Incendio forestal,142,20/01/2017,2,Incendio forestal
+CPL,Técnico,140,20/01/2017,Enero,Maule,-,San Javier,Forestal,Incendio forestal,140-A,12/02/2017,1,Incendio forestal
+JVB,Técnico,142,20/01/2017,Enero,O'Higgins,-,-,Forestal,Incendio forestal,142-E,03/02/2017,3,Incendio forestal
+JVB,Técnico,145,20/01/2017,Enero,Los Lagos,Osorno,-,Forestal,Incendio forestal,145-C,16/02/2017,2,Incendio forestal
+JVB,Técnico,145,20/01/2017,Enero,Los Lagos,Llanquihue,-,Forestal,Incendio forestal,145-C,16/02/2017,2,Incendio forestal
+CPL,Técnico,153,21/01/2017,Enero,Biobío,-,Bulnes,Forestal,Incendio forestal,106-B,21/01/2017,1,Incendio forestal
+CPL,Técnico,106-B,21/01/2017,Enero,Biobío,-,-,Forestal,Incendio forestal,106-C,04/02/2017,3,Incendio forestal
+VMT,Técnico,156,21/01/2017,Enero,Antofagasta,No value,No value,Hidrometeorológica,Precipitaciones,156-C,30/01/2017,2,Precipitaciones
+VMT,Técnico,156,21/01/2017,Enero,Antofagasta,No value,No value,Hidrometeorológica,precipitaciones,156-C,30/01/2017,1,Precipitaciones
+CPL,Técnico,161,22/01/2017,Enero,Maule,-,Empedrado,Forestal,Incendio forestal,161-A,24/01/2017,1,Incendio forestal
+CPL,Técnico,162,22/01/2017,Enero,Maule,-,Licantén,Forestal,Incendio forestal,097-C,07/02/2017,1,Incendio forestal
+PTB,Técnico,163-B,23/01/2017,Enero,Atacama,-,Alto del Carmen,Hidrometeorológica,Inundación,163-E,06/02/2017,1,Inundación
+PTB,Técnico,165,23/01/2017,Enero,Atacama,-,Diego de Almagro,Hidrometeorológica,Nevadas,165-A,24/01/2017,1,Nevadas
+PTB,Técnico,165,23/01/2017,Enero,Atacama,-,Tierra Amarilla,Hidrometeorológica,Nevadas,165-A,24/01/2017,1,Nevadas
+PTB,Técnico,165,23/01/2017,Enero,Atacama,-,Alto del Carmen,Hidrometeorológica,Nevadas,165-A,24/01/2017,1,Nevadas
+JVB,Técnico,1103-D,23/01/2017,Enero,Tarapacá,Tamarugal,-,Hidrometeorológica,Precipitaciones,1103-F,15/02/2017,2,Precipitaciones en precordillera y cordillera
+CPL,Técnico,161-A,24/01/2017,Enero,Maule,-,Empedrado,Forestal,Incendio forestal,161-C,12/02/2017,1,Vientos y altas temperaturas
+CPL,Técnico,161-A,24/01/2017,Enero,Maule,-,Constitución ,Forestal,Incendio forestal,161-C,12/02/2017,1,Vientos y altas temperaturas
+CPL,Técnico,165-A,24/01/2017,Enero,Atacama,No value,No value,Hidrometeorológica,Precipitaciones,165-C,06/02/2017,1,Precipitaciones
+CPL,Técnico,165-A,24/01/2017,Enero,Atacama,-,Diego de Almagro,Hidrometeorológica,Precipitaciones,165-C,06/02/2017,1,Precipitaciones
+CPL,Técnico,165-A,24/01/2017,Enero,Atacama,-,Tierra Amarilla,Hidrometeorológica,Precipitaciones,165-C,06/02/2017,1,Precipitaciones
+CPL,Técnico,165-A,24/01/2017,Enero,Atacama,-,Alto del Carmen,Hidrometeorológica,Precipitaciones,165-C,06/02/2017,1,Precipitaciones
+NSP,Técnico,188,26/01/2017,Enero,Maule,-,Curepto,Forestal,Incendio forestal,188-A,03/02/2017,1,Incendio forestal
+NSP,Técnico,193,27/01/2017,Enero,Atacama,-,Copiapó,Hidrometeorológica,Altas temperaturas,193-A,06/02/2017,1,Altas temperaturas
+NSP,Técnico,193,27/01/2017,Enero,Atacama,-,Vallenar,Hidrometeorológica,Altas temperaturas,193-A,06/02/2017,1,Altas temperaturas
+CPL,ATR,***,27/01/2017,Enero,Atacama,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+CPL,ATR,***,27/01/2017,Enero,O'Higgins,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+CPL,ATR,***,27/01/2017,Enero,Maule,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,ATR,***,30/01/2017,Enero,Arica y Parinacota,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,ATR,***,30/01/2017,Enero,Tarapacá,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,ATR,***,30/01/2017,Enero,Antofagasta,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,ATR,***,30/01/2017,Enero,Biobío,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,ATR,***,30/01/2017,Enero,Los Lagos,-,Borde costero ,Marejadas,Marejadas anormales,***,04/02/2017,3,Marejadas anormales
+VMT,Técnico,211,31/01/2017,Enero,Aysén,-,-,Otras alertas,Evento masivo,211-A,06/03/2017,3,Evento masivo
+BCG,Técnico,215,01/02/2017,Febrero,Atacama,-,Copiapó,Otras alertas,Evento masivo,215-A,09/02/2017,1,Evento masivo
+CPL,Técnico,142-E,03/02/2017,Febrero,O'Higgins,-,Navidad,Forestal,Incendio forestal,142-F,05/02/2017,1,Incendio forestal
+CPL,Técnico,142-E,03/02/2017,Febrero,O'Higgins,-,-,Forestal,Incendio forestal,142-H,19/02/2017,3,Incendio forestal
+PTB,Técnico,106-C,04/02/2017,Febrero,Biobío,Arauco,-,Forestal,Incendio forestal,106-F,06/02/2017,2,Incendio forestal
+PTB,Técnico,106-C,04/02/2017,Febrero,Biobío,Biobío,-,Forestal,Incendio forestal,106-F,06/02/2017,2,Incendio forestal
+PTB,Técnico,106-E,06/02/2017,Febrero,Biobío,Concepción,-,Forestal,Incendio forestal,106-G,17/02/2017,2,Incendio forestal
+PTB,Técnico,106-E,06/02/2017,Febrero,Biobío,Ñuble,-,Forestal,Incendio forestal,106-G,17/02/2017,2,Incendio forestal
+PTB,Técnico,106-F,06/02/2017,Febrero,Biobío,Arauco,-,Forestal,Incendio forestal,106-G,17/02/2017,2,Incendio forestal
+PTB,Técnico,106-F,06/02/2017,Febrero,Biobío,Biobío,-,Forestal,Incendio forestal,106-G,17/02/2017,2,Incendio forestal
+BCG,Técnico,238,07/02/2017,Febrero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,238-A,09/02/2017,2,Precipitaciones
+PTB,Técnico,240,07/02/2017,Febrero,Arica y Parinacota,Parinacota,-,Hidrometeorológica,Precipitaciones,240-A,21/02/2017,2,Precipitaciones
+BCG,Técnico,240,07/02/2017,Febrero,Arica y Parinacota,-,Camarones,Hidrometeorológica,Precipitaciones,240-A,21/02/2017,1,Precipitaciones
+PTB,Técnico,244,08/02/2017,Febrero,Arica y Parinacota,-,Arica,Otras alertas,Evento masivo,244-A,13/02/2017,1,Evento masivo
+JVB,Técnico,250,11/02/2017,Febrero,O'Higgins,-,Machalí,Forestal,Incendio forestal,250-B,14/02/2017,1,Incendio forestal
+JVB,Técnico,252,12/02/2017,Febrero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,252-A,14/02/2017,2,Precipitaciones
+CPL,Técnico,140-A,12/02/2017,Febrero,Maule,-,San Javier,Forestal,Incendio forestal,140-B,27/02/2017,1,Incendio forestal
+CPL,Técnico,060-C,12/02/2017,Febrero,Maule,-,-,Forestal,Incendio forestal,060-F,27/03/2017,3,Incendio forestal
+CPL,Técnico,060-C,12/02/2017,Febrero,Maule,-,Empedrado,Forestal,Incendio forestal,161-D,Vigente,1,Incendio forestal
+CPL,Técnico,060-C,12/02/2017,Febrero,Maule,-,Constitución ,Forestal,Incendio forestal,161-E,16/03/2017,1,Incendio forestal
+JVB,Técnico,254,13/02/2017,Febrero,Maule,-,Hualañé,Forestal,Incendio forestal,254-A,14/02/2017,1,Incendio forestal
+JVB,Técnico,256,13/02/2017,Febrero,Magallanes,Última Esperanza,-,Forestal,Incendio forestal,256-A,16/02/2017,2,Incendio forestal
+JVB,Técnico,258,14/02/2017,Febrero,Magallanes,Magallanes ,-,Hidrometeorológica,Precipitaciones,258-A,20/02/2017,2,Precipitaciones
+JVB,Técnico,258,14/02/2017,Febrero,Magallanes,Tierra del Fuego,-,Hidrometeorológica,Precipitaciones,258-A,20/02/2017,2,Precipitaciones
+BCG,Técnico,1103-F,15/02/2017,Febrero,Tarapacá,Tamarugal,-,Hidrometeorológica,Precipitaciones,1103-H,22/02/2017,2,Precipitaciones
+JVB,Técnico,262,15/02/2017,Febrero,Los Lagos,-,-,Hidrometeorológica,Sistema frontal,262-F,18/02/2017,3,Sistema frontal
+VMT,Técnico,269,16/02/2017,Febrero,Aysén,Coyhaique,-,Hidrometeorológica,Sistema frontal,269-A,22/02/2017,2,Sistema frontal
+VMT,Técnico,269,16/02/2017,Febrero,Aysén,Aysén,-,Hidrometeorológica,Sistema frontal,269-A,22/02/2017,2,Sistema frontal
+BCG,Técnico,106-G,17/02/2017,Febrero,Biobío,Concepción,-,Forestal,Incendio forestal,106-H,20/02/2017,2,Incendio forestal
+BCG,Técnico,106-G,17/02/2017,Febrero,Biobío,Ñuble,-,Forestal,Incendio forestal,106-H,20/02/2017,2,Incendio forestal
+JVB,Técnico,272,17/02/2017,Febrero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,272-A,21/02/2017,2,Precipitaciones
+JVB,Técnico,272,17/02/2017,Febrero,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones,272-A,21/02/2017,1,Precipitaciones
+NSP,Técnico,262-G,18/02/2017,Febrero,Los Lagos,-,-,Hidrometeorológica,Sistema frontal,262-M,22/02/2017,3,Sistema frontal
+NSP,Técnico,281,19/02/2017,Febrero,O'Higgins,-,-,Forestal,Incendio forestal,281-B,23/02/2017,3,Incendio forestal
+NSP,Técnico,106-H,20/02/2017,Febrero,Biobío,-,-,Forestal,Incendio forestal,299,22/02/2017,3,Incendio forestal
+NSP,Técnico,289,20/02/2017,Febrero,Atacama,-,Alto del Carmen,Hidrometeorológica,Precipitaciones,289-C,03/03/2017,1,Precipitaciones
+NSP,Técnico,289,20/02/2017,Febrero,Atacama,-,Copiapó,Hidrometeorológica,Precipitaciones,289-C,03/03/2017,1,Precipitaciones
+NSP,Técnico,289,20/02/2017,Febrero,Atacama,-,Tierra Amarilla,Hidrometeorológica,Precipitaciones,289-C,03/03/2017,1,Precipitaciones
+NSP,Técnico,289,20/02/2017,Febrero,Atacama,-,Diego de Almagro,Hidrometeorológica,Precipitaciones,289-C,03/03/2017,1,Precipitaciones
+NSP,Técnico,294,21/02/2017,Febrero,Biobío,-,Florida,Forestal,Incendio forestal,294-A,24/02/2017,1,Incendio forestal
+NSP,Técnico,294,21/02/2017,Febrero,Biobío,Concepción,-,Forestal,Incendio forestal,299,22/02/2017,2,Incendio forestal
+NSP,Técnico,295,21/02/2017,Febrero,Maule,-,Parral,Forestal,Incendio forestal,295-G,23/02/2017,1,Incendio forestal
+NSP,Técnico,272-A,21/02/2017,Febrero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,272-B,23/02/2017,2,Precipitaciones
+NSP,Técnico,272-A,21/02/2017,Febrero,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones,272-B,23/02/2017,1,Precipitaciones
+NSP,Técnico,272-A,21/02/2017,Febrero,Antofagasta,-,Sierra Gorda,Hidrometeorológica,Precipitaciones,272-B,23/02/2017,1,Precipitaciones
+NSP,Técnico,272-A,21/02/2017,Febrero,Antofagasta,-,María Elena,Hidrometeorológica,Precipitaciones,272-B,23/02/2017,1,Precipitaciones
+NSP,Técnico,240-A,21/02/2017,Febrero,Arica y Parinacota,-,-,Hidrometeorológica,Precipitaciones,240-B,22/02/2017,3,Precipitaciones
+NSP,Técnico,296,21/02/2017,Febrero,Biobío,Ñuble,-,Forestal,Incendio forestal,299,22/02/2017,2,Incendio forestal
+BCG,Técnico,240-B,22/02/2017,Febrero,Arica y Parinacota,-,-,Hidrometeorológica,Precipitaciones,240-F,16/03/2017,3,Precipitaciones
+NSP,Técnico,298,22/02/2017,Febrero,Biobío,-,Quillón,Forestal,Incendio forestal,298-A,26/02/2017,1,Incendio forestal
+NSP,Técnico,299,22/02/2017,Febrero,Biobío,-,-,Forestal,Incendio forestal,299-A,27/02/2017,3,Incendio forestal
+NSP,Técnico,1103-H,22/02/2017,Febrero,Tarapacá,-,-,Hidrometeorológica,Precipitaciones,1103-I,03/04/2017,3,Precipitaciones
+NSP,Técnico,300,22/02/2017,Febrero,Los Lagos,-,-,Forestal,Incendio forestal,300-A,27/02/2017,3,Incendio forestal
+PTB,Técnico,302,22/02/2017,Febrero,Maule,-,Cauquenes,Forestal,Incendio forestal,302-A,27/02/2017,1,Incendio forestal
+NSP,Técnico,272-B,23/02/2017,Febrero,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,272-F,25/02/2017,2,Precipitaciones
+NSP,Técnico,272-B,23/02/2017,Febrero,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones,272-F,25/02/2017,1,Precipitaciones
+NSP,Técnico,272-B,23/02/2017,Febrero,Antofagasta,-,Taltal,Hidrometeorológica,Precipitaciones,272-F,25/02/2017,1,Precipitaciones
+NSP,Técnico,272-B,23/02/2017,Febrero,Antofagasta,-,Sierra Gorda,Hidrometeorológica,Precipitaciones,272-F,25/02/2017,1,Precipitaciones
+NSP,Técnico,272-B,23/02/2017,Febrero,Antofagasta,-,María Elena,Hidrometeorológica,Precipitaciones,272-F,25/02/2017,1,Precipitaciones
+NSP,Técnico,304,23/02/2017,Febrero,O'Higgins,-,-,Hidrometeorológica,Precipitaciones,304-B,26/02/2017,1,Precipitaciones
+NSP,Técnico,295-G,23/02/2017,Febrero,Maule,-,Parral,Forestal,Incendio forestal,295-J,01/03/2017,1,Incendio forestal
+PTB,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,San Pedro de Atacama,Hidrometeorológica,Precipitaciones,272-G,26/02/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,Calama,Hidrometeorológica,Precipitaciones,272-G,26/02/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,Ollague,Hidrometeorológica,Precipitaciones,272-I,03/03/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones,272-I,03/03/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,Taltal,Hidrometeorológica,Precipitaciones,272-I,03/03/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,Sierra Gorda,Hidrometeorológica,Precipitaciones,272-I,03/03/2017,1,Precipitaciones
+NSP,Técnico,272-F,25/02/2017,Febrero,Antofagasta,-,María Elena,Hidrometeorológica,Precipitaciones,272-I,03/03/2017,1,Precipitaciones
+PTB,Técnico,304-B,26/02/2017,Febrero,O'Higgins,-,Codegua,Hidrometeorológica,Precipitaciones,304-C,27/02/2017,1,Precipitaciones
+PTB,Técnico,304-B,26/02/2017,Febrero,O'Higgins,-,Machalí,Hidrometeorológica,Precipitaciones,304-C,27/02/2017,1,Precipitaciones
+PTB,Técnico,304-B,26/02/2017,Febrero,O'Higgins,-,Rengo,Hidrometeorológica,Precipitaciones,304-C,27/02/2017,1,Precipitaciones
+PTB,Técnico,304-B,26/02/2017,Febrero,O'Higgins,-,San Fernando,Hidrometeorológica,Precipitaciones,304-C,27/02/2017,1,Precipitaciones
+PTB,Técnico,316,26/02/2017,Febrero,Antofagasta,-,Antofagasta,Hidrometeorológica,Altas temperaturas,316-B,03/03/2017,1,Altas temperaturas
+PTB,Técnico,316,26/02/2017,Febrero,Antofagasta,-,Mejillones,Hidrometeorológica,Altas temperaturas,316-B,03/03/2017,1,Altas temperaturas
+PTB,Técnico,316,26/02/2017,Febrero,Antofagasta,-,Taltal,Hidrometeorológica,Altas temperaturas,316-B,03/03/2017,1,Altas temperaturas
+PTB,Técnico,316,26/02/2017,Febrero,Antofagasta,-,Tocopilla,Hidrometeorológica,Altas temperaturas,316-B,03/03/2017,1,Altas temperaturas
+PTB,Técnico,317,26/02/2017,Febrero,Atacama,-,Chañaral,Hidrometeorológica,Altas temperaturas,317-A,02/03/2017,1,Altas temperaturas
+PTB,Técnico,317,26/02/2017,Febrero,Atacama,-,Caldera,Hidrometeorológica,Altas temperaturas,317-A,02/03/2017,1,Altas temperaturas
+PTB,Técnico,317,26/02/2017,Febrero,Atacama,-,Freirina,Hidrometeorológica,Altas temperaturas,317-A,02/03/2017,1,Altas temperaturas
+PTB,Técnico,317,26/02/2017,Febrero,Atacama,-,Huasco,Hidrometeorológica,Altas temperaturas,317-A,02/03/2017,1,Altas temperaturas
+CPL,Técnico,272-G,26/02/2017,Febrero,Antofagasta,-,Calama,Hidrometeorológica,Precipitaciones,272-H,03/03/2017,1,Precipitaciones
+NSP,Técnico,272-G,26/02/2017,Febrero,Antofagasta,No value,No value,Hidrometeorológica,Precipitaciones,272-H,03/03/2017,1,Precipitaciones
+CPL,Técnico,320,26/02/2017,Febrero,Magallanes,Magallanes ,-,Hidrometeorológica,Precipitaciones,320-A,02/03/2017,2,Precipitaciones
+CPL,Técnico,320,26/02/2017,Febrero,Magallanes,Tierra del Fuego,-,Hidrometeorológica,Precipitaciones,320-A,02/03/2017,2,Precipitaciones
+CPL,Técnico,320,26/02/2017,Febrero,Magallanes,Antártica Chilena,-,Hidrometeorológica,Precipitaciones,320-A,02/03/2017,2,Precipitaciones
+PTB,Técnico,322,27/02/2017,Febrero,O'Higgins,-,-,Forestal,Altas temperaturas,322-A,01/03/2017,3,Precipitaciones
+VMT,Técnico,304-C,27/02/2017,Febrero,O'Higgins,-,Chimbarongo,Hidrometeorológica,Precipitaciones,304-E,10/03/2017,1,Precipitaciones
+VMT,Técnico,304-C,27/02/2017,Febrero,O'Higgins,-,Codegua,Hidrometeorológica,Precipitaciones,304-E,10/03/2017,1,Precipitaciones
+VMT,Técnico,304-C,27/02/2017,Febrero,O'Higgins,-,Machalí,Hidrometeorológica,Precipitaciones,304-E,10/03/2017,1,Precipitaciones
+VMT,Técnico,304-C,27/02/2017,Febrero,O'Higgins,-,Rengo,Hidrometeorológica,Precipitaciones,304-E,10/03/2017,1,Precipitaciones
+VMT,Técnico,304-C,27/02/2017,Febrero,O'Higgins,-,San Fernando,Hidrometeorológica,Precipitaciones,304-F,21/03/2017,1,Precipitaciones
+CPL,Técnico,299-A,27/02/2017,Febrero,Biobío,-,-,Forestal,Incendio forestal,299-B,01/03/2017,3,Incendio forestal
+VMT,Técnico,325,27/02/2017,Febrero,Los Lagos,-,-,Hidrometeorológica,Sistema frontal,325-A,03/03/2017,3,Sistema frontal
+JVB,Técnico,328,28/02/2017,Febrero,Atacama,-,Diego de Almagro,Hidrometeorológica,Remoción en masa,328-F,08/03/2017,1,Remoción en masa
+JVB,Técnico,328,28/02/2017,Febrero,Atacama,-,Alto del Carmen,Hidrometeorológica,Remoción en masa,328-F,08/03/2017,1,Remoción en masa
+JVB,Técnico,328-A,01/03/2017,Marzo,Atacama,-,Chañaral,Hidrometeorológica,Remoción en masa,328-F,08/03/2017,1,Remoción en masa
+VMT,Técnico,322-A,01/03/2017,Marzo,O'Higgins,-,-,Forestal,Altas temperaturas,322-A,01/03/2017,3,Altas temperaturas
+JVB,Técnico,338,06/03/2017,Marzo,O'Higgins,-,Santa Cruz,Forestal,Incendio forestal,338-B,06/03/2017,1,Incendio forestal
+BCG,Técnico,338-A,06/03/2017,Marzo,O'Higgins,-,Chépica,Forestal,Incendio forestal,338-B,06/03/2017,1,Incendio forestal
+BCG,Técnico,338-B,06/03/2017,Marzo,O'Higgins,-,Santa Cruz,Forestal,Incendio forestal,338-C,09/03/2017,1,Incendio forestal
+BCG,Técnico,338-B,06/03/2017,Marzo,O'Higgins,-,Chépica,Forestal,Incendio forestal,338-C,09/03/2017,1,Incendio forestal
+VMT,Técnico,340,06/03/2017,Marzo,O'Higgins,-,Litueche,Forestal,Incendio forestal,340-A,09/03/2017,1,Incendio forestal
+VMT,Técnico,342,06/03/2017,Marzo,Aysén,-,-,Hidrometeorológica,Tormentas eléctricas,342-A,13/03/2017,3,Tormentas eléctricas
+VMT,Técnico,343,06/03/2017,Marzo,Los Lagos,-,-,Hidrometeorológica,Tormentas eléctricas,343-C,11/03/2017,3,Tormentas eléctricas
+VMT,Técnico,344,06/03/2017,Marzo,Magallanes,Última Esperanza,-,Hidrometeorológica,Precipitaciones,344-B,10/03/2017,2,Precipitaciones
+VMT,Técnico,350,06/03/2017,Marzo,O'Higgins,-,Navidad,Forestal,Incendio forestal,350-A,08/03/2017,1,Incendio forestal
+VMT,Técnico,353,07/03/2017,Marzo,Biobío,-,Chillán,Forestal,Incendio forestal,353-A,08/03/2017,1,Incendio forestal
+VMT,Técnico,353,07/03/2017,Marzo,Biobío,-,San Nicolás,Forestal,Incendio forestal,353-A,08/03/2017,1,Incendio forestal
+VMT,Técnico,338-C,09/03/2017,Marzo,O'Higgins,-,Santa Cruz,Forestal,Incendio forestal,338-D,10/03/2017,1,Incendio forestal
+VMT,Técnico,338-C,09/03/2017,Marzo,O'Higgins,-,Chépica,Forestal,Incendio forestal,338-D,10/03/2017,1,Incendio forestal
+PTB,Técnico,364,10/03/2017,Marzo,Magallanes,No value,No value,Hidrometeorológica,Viento,364-B,14/03/2017,3,Viento
+VMT,Técnico,365,10/03/2017,Marzo,O'Higgins,-,-,Forestal,Incendio forestal,365-B,14/03/2017,3,Incendio forestal
+PTB,Técnico,370,11/03/2017,Marzo,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,370-A,15/03/2017,2,Precipitaciones
+PTB,Técnico,374,12/03/2017,Marzo,Maule,-,Curicó,Forestal,Incendio forestal,374-A,13/03/2017,1,Incendio forestal
+PTB,Técnico,376,12/03/2017,Marzo,O'Higgins,-,Las Cabras,Forestal,Incendio forestal,376-A,13/03/2017,1,Incendio forestal
+PTB,Técnico,377,12/03/2017,Marzo,Maule,-,Retiro,Forestal,Incendio forestal,377-A,14/03/2017,1,Incendio forestal
+BCG,Técnico,379,13/03/2017,Marzo,Biobío,-,-,Forestal,Incendio forestal,379-A,15/03/2017,3,Incendio forestal
+PTB,Técnico,376-A,13/03/2017,Marzo,O'Higgins,-,Las Cabras,Forestal,Incendio forestal,376-B,13/03/2017,1,Incendio forestal
+PTB,Técnico,384,14/03/2017,Marzo,Los Lagos,Osorno,-,Forestal,Incendio forestal,384-A,18/03/2017,2,Incendio forestal
+PTB,Técnico,384,14/03/2017,Marzo,Los Lagos,Llanquihue,-,Forestal,Incendio forestal,384-A,18/03/2017,2,Incendio forestal
+BCG,Técnico,387,15/03/2017,Marzo,Atacama,-,Alto del Carmen,Hidrometeorológica,Precipitaciones,387-B,17/03/2017,1,Precipitaciones
+BCG,Técnico,387,15/03/2017,Marzo,Atacama,-,Copiapó,Hidrometeorológica,Precipitaciones,387-B,17/03/2017,1,Precipitaciones
+BCG,Técnico,387,15/03/2017,Marzo,Atacama,-,Tierra Amarilla,Hidrometeorológica,Precipitaciones,387-B,17/03/2017,1,Precipitaciones
+BCG,Técnico,387,15/03/2017,Marzo,Atacama,-,Diego de Almagro,Hidrometeorológica,Precipitaciones,387-B,17/03/2017,1,Precipitaciones
+PTB,Técnico,388,15/03/2017,Marzo,O'Higgins,-,-,Forestal,Incendio forestal,388-A,19/03/2017,3,Incendio forestal
+PTB,Técnico,389,15/03/2017,Marzo,Biobío,-,Chillán,Forestal,Incendio forestal,389-A,17/03/2017,1,Incendio forestal
+BCG,Técnico,387-B,17/03/2017,Marzo,Atacama,-,-,Hidrometeorológica,Precipitaciones,387-C,21/03/2017,3,Precipitaciones
+PTB,Técnico,394,17/03/2017,Marzo,Antofagasta,El Loa,-,Hidrometeorológica,Precipitaciones,394-C,24/03/2017,2,Precipitaciones
+PTB,Técnico,394,17/03/2017,Marzo,Antofagasta,-,Taltal,Hidrometeorológica,Precipitaciones,394-A,19/03/2017,1,Precipitaciones
+PTB,Técnico,394,17/03/2017,Marzo,Antofagasta,-,Sierra Gorda,Hidrometeorológica,Precipitaciones,394-A,19/03/2017,1,Precipitaciones
+PTB,Técnico,394,17/03/2017,Marzo,Antofagasta,-,Antofagasta,Hidrometeorológica,Precipitaciones,394-B,22/03/2017,1,Precipitaciones
+JVB,Técnico,404,19/03/2017,Marzo,O'Higgins,-,Codegua,Hidrometeorológica,Precipitaciones y tormentas eléctricas,404-B,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,404,19/03/2017,Marzo,O'Higgins,-,Machalí,Hidrometeorológica,Precipitaciones y tormentas eléctricas,404-B,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,404,19/03/2017,Marzo,O'Higgins,-,Rengo,Hidrometeorológica,Precipitaciones y tormentas eléctricas,404-B,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,404,19/03/2017,Marzo,O'Higgins,-,San Fernando,Hidrometeorológica,Precipitaciones y tormentas eléctricas,404-B,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,404,19/03/2017,Marzo,O'Higgins,-,Chimbarongo,Hidrometeorológica,Precipitaciones y tormentas eléctricas,404-B,21/03/2017,1,Precipitaciones y tormentas eléctricas
+BCG,Técnico,406,19/03/2017,Marzo,Atacama,-,Vallenar,Otras alertas,Incendio en pastizal,407-A,20/03/2017,1,Incendio en pastizal
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Romeral,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Curicó,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Molina,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,San Clemente,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Colbún,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Linares,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Retiro,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,408,20/03/2017,Marzo,Maule,-,Parral,Hidrometeorológica,Precipitaciones y tormentas eléctricas,408-A,21/03/2017,1,Precipitaciones y tormentas eléctricas
+JVB,Técnico,411,21/03/2017,Marzo,Atacama,-,Alto del Carmen,Hidrometeorológica,Precipitaciones,411-A,26/03/2017,1,Precipitaciones 
+JVB,Técnico,411,21/03/2017,Marzo,Atacama,-,Copiapó,Hidrometeorológica,Precipitaciones,411-A,26/03/2017,1,Precipitaciones 
+JVB,Técnico,411,21/03/2017,Marzo,Atacama,-,Tierra Amarilla,Hidrometeorológica,Precipitaciones,411-A,26/03/2017,1,Precipitaciones 
+JVB,Técnico,411,21/03/2017,Marzo,Atacama,-,Diego de Almagro,Hidrometeorológica,Precipitaciones,411-A,26/03/2017,1,Precipitaciones 
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Romeral,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Curicó,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Molina,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,San Clemente,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Colbún,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Linares,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Retiro,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,418,28/03/2017,Marzo,Maule,-,Parral,Hidrometeorológica,Tormentas eléctricas,418-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,419,28/03/2017,Marzo,O'Higgins,-,Codegua,Hidrometeorológica,Tormentas eléctricas,419-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,419,28/03/2017,Marzo,O'Higgins,-,Machalí,Hidrometeorológica,Tormentas eléctricas,419-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,419,28/03/2017,Marzo,O'Higgins,-,Rengo,Hidrometeorológica,Tormentas eléctricas,419-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,419,28/03/2017,Marzo,O'Higgins,-,San Fernando,Hidrometeorológica,Tormentas eléctricas,419-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,419,28/03/2017,Marzo,O'Higgins,-,Chimbarongo,Hidrometeorológica,Tormentas eléctricas,419-A,29/03/2017,1,Tormentas eléctricas
+NSP,Técnico,420,28/03/2017,Marzo,Biobío,-,-,Hidrometeorológica,Tormentas eléctricas,420-A,30/03/2017,3,Tormentas eléctricas
+JVB,Técnico,423,29/03/2017,Marzo,Aysén,-,-,Hidrometeorológica,Tormentas eléctricas,423-B,31/03/2017,3,Tormentas eléctricas
+JVB,Técnico,426,29/03/2017,Marzo,Los Lagos,Palena,-,Hidrometeorológica,Tormentas eléctricas,426-B,30/03/2017,2,Tormentas eléctricas
+NSP,Técnico,427,30/03/2017,Marzo,Maule,-,Hualañé,Forestal,Incendio forestal,427-A,30/03/2017,1,Incendio forestal
+NSP,Técnico,428,30/03/2017,Marzo,Los Lagos,-,Puyehue,Hidrometeorológica,Tormentas eléctricas,428-A,31/03/2017,1,Tormentas eléctricas
+PTB,Técnico,436,01/04/2017,Abril,Los Lagos,-,-,Hidrometeorológica,Tormentas eléctricas,436-A,02/04/2017,3,Tormentas eléctricas
+CPL,Técnico,439,03/04/2017,Abril,Atacama,-,Freirina,Forestal,Incendio forestal,439-B,04/04/2017,1,Incendio forestal
+BCG,Técnico,240-F,16/03/2017,Marzo,Arica y Parinacota,-,-,Hidrometeorológica,Precipitaciones,240-G,06/04/2017,3,Precipitaciones
+BCG,Técnico,447,06/04/2017,Abril,Los Lagos,-,-,Hidrometeorológica,Tormentas eléctricas,447-A,08/04/2017,3,Tormentas eléctricas
+CPL,Técnico,452,07/04/2017,Abril,O'Higgins,-,-,Hidrometeorológica,Tormentas eléctricas,452-A,08/04/2017,3,Tormentas eléctricas
+CPL,Técnico,453,07/04/2017,Abril,Maule,-,-,Hidrometeorológica,Tormentas eléctricas,453-A,08/04/2017,3,Tormentas eléctricas
+CPL,Técnico,457,10/04/2017,Abril,O'Higgins,-,-,Forestal,Incendio forestal,457-A,13/04/2017,3,Incendio forestal
+PTB,Técnico,467,15/04/2017,Abril,Antofagasta,El Loa,-,Hidrometeorológica,Viento,467-B,16/04/2017,2,Viento
+PTB,Técnico,467,15/04/2017,Abril,Antofagasta,-,Antofagasta,Hidrometeorológica,Viento,467-B,16/04/2017,1,Viento
+PTB,Técnico,468,15/04/2017,Abril,Atacama,-,Diego de Almagro,Hidrometeorológica,Viento,468-A,16/04/2017,1,Viento
+PTB,Técnico,468,15/04/2017,Abril,Atacama,-,Copiapó,Hidrometeorológica,Viento,468-A,16/04/2017,1,Viento
+PTB,Técnico,468,15/04/2017,Abril,Atacama,-,Tierra Amarilla,Hidrometeorológica,Viento,468-A,16/04/2017,1,Viento
+PTB,Técnico,468,15/04/2017,Abril,Atacama,-,Alto del Carmen,Hidrometeorológica,Viento,468-A,16/04/2017,1,Viento
+PTB,Técnico,470,16/04/2017,Abril,O'Higgins,-,-,Hidrometeorológica,Precipitaciones,470-B,17/04/2017,3,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Teno,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Romeral,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Curicó,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Molina,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,San Clemente,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Colbún,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Linares,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Longaví,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Retiro,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+PTB,Técnico,472,16/04/2017,Abril,Maule,-,Parral,Hidrometeorológica,Precipitaciones,472-A,18/04/2017,1,Precipitaciones
+NSP,Técnico,468-A,16/04/2017,Abril,Atacama,-,-,Hidrometeorológica,Sistema convectivo,468-B,17/04/2017,3,Sistema convectivo
+NSP,Técnico,467-B,16/04/2017,Abril,Antofagasta,-,-,Hidrometeorológica,Núcleo frío en altura,467-C,17/04/2017,3,Núcleo frío en altura
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,Mostazal,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,Codegua,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,Machalí,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,Rengo,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,San Fernando,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,470-B,17/04/2017,Abril,O'Higgins,-,Chimbarongo,Hidrometeorológica,Precipitaciones,470-C,17/04/2017,1,Precipitaciones
+BCG,Técnico,474,17/04/2017,Abril,Tarapacá,Tamarugal,-,Hidrometeorológica,Viento,474-A,19/04/2017,2,Viento
+BCG,Técnico,468-B,17/04/2017,Abril,Atacama,-,-,Hidrometeorológica,Núcleo frío en altura,468-D,20/04/2017,3,Núcleo frío en altura
+NSP,Técnico,467-C,17/04/2017,Abril,Antofagasta,-,-,Hidrometeorológica,Núcleo frío en altura,467-E,19/04/2017,3,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,Mostazal,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,Codegua,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,Machalí,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,Rengo,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,San Fernando,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+BCG,Técnico,470-C,17/04/2017,Abril,O'Higgins,-,Chimbarongo,Hidrometeorológica,Núcleo frío en altura,470-D,18/04/2017,1,Núcleo frío en altura
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Teno,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Romeral,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Curicó,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Molina,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,San Clemente,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Colbún,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Linares,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Longaví,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Retiro,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,472-A,18/04/2017,Abril,Maule,-,Parral,Hidrometeorológica,Sistema frontal,472-B,21/04/2017,1,Sistema frontal
+PTB,Técnico,470-D,18/04/2017,Abril,O'Higgins,-,-,Hidrometeorológica,Sistema frontal,470-F,21/04/2017,3,Sistema frontal
+PTB,Técnico,481,21/04/2017,Abril,Biobío,-,Alto Biobío,Volcánica,Actividad Volcán Copahue,560,04/06/2017,1,Actividad Volcán Copahue
+NSP,Técnico,489,29/04/2017,Abril,Aysén,Capitán Prat,-,Hidrometeorológica,Precipitaciones,489-A,29/04/2017,2,Precipitaciones
+NSP,Técnico,489-A,29/04/2017,Abril,Aysén,-,-,Hidrometeorológica,Sistema frontal,489-S,08/05/2017,3,Sistema frontal
+JVB,Técnico,555,02/06/2017,Junio,Antofagasta,El Loa,-,Hidrometeorológica,Viento,555-A,03/06/2017,2,Viento
+JVB,Técnico,555,02/06/2017,Junio,Antofagasta,-,Antofagasta,Hidrometeorológica,Viento,555-A,03/06/2017,1,Viento
+JVB,Técnico,556,02/06/2017,Junio,Atacama,-,Diego de Almagro,Hidrometeorológica,Viento,556-A,03/06/2017,1,Viento
+JVB,Técnico,556,02/06/2017,Junio,Atacama,-,Copiapó,Hidrometeorológica,Viento,556-A,03/06/2017,1,Viento
+JVB,Técnico,556,02/06/2017,Junio,Atacama,-,Tierra Amarilla,Hidrometeorológica,Viento,556-A,03/06/2017,1,Viento
+JVB,Técnico,556,02/06/2017,Junio,Atacama,-,Alto del Carmen,Hidrometeorológica,Viento,556-A,03/06/2017,1,Viento
+JVB,Técnico,556-A,03/06/2017,Junio,Atacama,-,-,Hidrometeorológica,Evento hidrometeorologico,556-C,05/06/2017,3,Evento hidrometeorologico
+JVB,Técnico,555-A,03/06/2017,Junio,Antofagasta,-,-,Hidrometeorológica,Evento hidrometeorologico,555-C,05/06/2017,3,Evento hidrometeorologico
+NSP,Técnico,560,04/06/2017,Junio,Biobío,-,Alto Biobío,Volcánica,Actividad Volcán Copahue,744,06/09/2017,1,Actividad Volcán Copahue
+NSP,Técnico,556-C,05/06/2017,Junio,Atacama,-,-,Hidrometeorológica,Evento hidrometeorologico,556-G,08/06/2017,3,Evento hidrometeorologico
+NSP,Técnico,562,05/06/2017,Junio,Tarapacá,-,-,Hidrometeorológica,Evento hidrometeorologico,562-E,08/06/2017,3,Evento hidrometeorologico
+NSP,Técnico,555-C,05/06/2017,Junio,Antofagasta,-,-,Hidrometeorológica,Evento hidrometeorologico,555-H,07/06/2017,3,Evento hidrometeorologico
+NSP,Técnico,563,05/06/2017,Junio,Arica y Parinacota,-,-,Hidrometeorológica,Evento hidrometeorologico,563-A,08/06/2017,3,Evento hidrometeorologico
+BCG,Técnico,564,06/06/2017,Junio,Aysén,-,-,Hidrometeorológica,Tormentas eléctricas,564-A,07/06/2017,3,Tormentas eléctricas
+BCG,Técnico,565,06/06/2017,Junio,Los Lagos,-,-,Hidrometeorológica,Tormentas eléctricas,565-A,07/06/2017,3,Tormentas eléctricas
+BCG,Técnico,566,06/06/2017,Junio,O'Higgins,-,Las Cabras,Forestal,Incendio forestal,566-A,06/06/2017,1,Incendio forestal
+BCG,Técnico,555-H,07/06/2017,Junio,Antofagasta,Antofagasta,-,Hidrometeorológica,Evento hidrometeorologico,555-J,07/06/2017,2,Evento hidrometeorologico
+BCG,Técnico,555-I,07/06/2017,Junio,Antofagasta,El Loa,-,Hidrometeorológica,Evento hidrometeorologico,555-J,07/06/2017,2,Evento hidrometeorologico
+BCG,Técnico,555-I,07/06/2017,Junio,Antofagasta,Tocopilla,-,Hidrometeorológica,Evento hidrometeorologico,555-J,07/06/2017,2,Evento hidrometeorologico
+NSP,Técnico,555-J,07/06/2017,Junio,Antofagasta,-,-,Hidrometeorológica,Evento hidrometeorologico,555-L,08/06/2017,3,Evento hidrometeorologico
+NSP,Técnico,571,07/06/2017,Junio,Aysén,-,-,Hidrometeorológica,Sistema frontal,571-A,10/06/2017,3,Sistema frontal
+NSP,Técnico,572,07/06/2017,Junio,Los Lagos,Chiloé ,-,Hidrometeorológica,Sistema frontal,572-B,10/06/2017,2,Sistema frontal
+NSP,Técnico,572,07/06/2017,Junio,Los Lagos,Palena,-,Hidrometeorológica,Sistema frontal,572-B,10/06/2017,2,Sistema frontal
+CPL,Técnico,579,11/06/2017,Junio,Magallanes,-,-,Hidrometeorológica,Chubascos de nieve y heladas,579-G,18/06/2017,3,Chubascos de nieve y heladas
+CPL,Técnico,580,11/06/2017,Junio,O'Higgins,No value,No value,Hidrometeorológica,Sistema frontal,580-E,16/06/2017,3,Sistema frontal
+CPL,Técnico,582,12/06/2017,Junio,Biobío,-,-,Hidrometeorológica,Sistema frontal,582-C,16/04/2017,3,Sistema frontal
+CPL,Técnico,583,12/06/2017,Junio,Maule,-,-,Hidrometeorológica,Sistema frontal,583-C,17/06/2017,3,Sistema frontal
+CPL,Técnico,584,12/06/2017,Junio,Los Lagos,-,-,Hidrometeorológica,Sistema frontal,584-J,18/08/2017,3,Sistema frontal
+CPL,ATR,***,14/06/2017,Junio,Atacama,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Atacama,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,O'Higgins,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,O'Higgins,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,O'Higgins,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,O'Higgins,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Maule,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+CPL,ATR,***,14/06/2017,Junio,Biobío,No value,No value,Marejadas,Marejadas anormales,***,18/06/2017,1,Marejadas anormales
+BCG,Técnico,590,14/06/2017,Junio,Magallanes,-,-,Hidrometeorológica,Heladas,590-E,18/06/2017,3,Heladas
+BCG,Técnico,591,14/06/2017,Junio,Atacama,-,Diego de Almagro,Hidrometeorológica,Viento,591-B,18/06/2017,3,Viento
+BCG,Técnico,591,14/06/2017,Junio,Atacama,-,Copiapó,Hidrometeorológica,Viento,591-B,18/06/2017,3,Viento
+BCG,Técnico,591,14/06/2017,Junio,Atacama,-,Tierra Amarilla,Hidrometeorológica,Viento,591-B,18/06/2017,3,Viento
+BCG,Técnico,591,14/06/2017,Junio,Atacama,-,Alto del Carmen,Hidrometeorológica,Viento,591-B,18/06/2017,3,Viento
+BCG,Técnico,592,14/06/2017,Junio,Antofagasta,-,-,Otras alertas,Varamiento de especies,592-A,19/07/2017,3,Varamiento de especies
+BCG,Técnico,593,16/06/2017,Junio,Biobío,-,-,Hidrometeorológica,Inundación,593-A,18/06/2017,3,Inundación
+VMT,Técnico,594,16/06/2017,Junio,Biobío,-,Los Álamos,Hidrometeorológica,Inundación,594-A,18/06/2017,1,Inundación
+VMT,Técnico,594,16/06/2017,Junio,Biobío,-,Cañete ,Hidrometeorológica,Inundación,594-A,18/06/2017,1,Inundación
+CPL,Técnico,595,16/06/2017,Junio,Aysén,-,-,Hidrometeorológica,Heladas,595-E,23/06/2017,3,Heladas
+CPL,Técnico,580-E,16/06/2017,Junio,O'Higgins,-,-,Hidrometeorológica,Sistema frontal,580-G,21/06/2017,3,Sistema frontal
+BCG,Técnico,582-C,16/06/2017,Junio,Biobío,-,-,Hidrometeorológica,Sistema frontal,582-M,27/06/2017,3,Sistema frontal
+VMT,Técnico,606,20/06/2017,Junio,Maule,-,-,Hidrometeorológica,Sistema frontal,606-D,25/06/2017,3,Sistema frontal
+VMT,Técnico,607,20/06/2017,Junio,Magallanes,-,-,Hidrometeorológica,Heladas,607-B,26/06/2017,3,Heladas
+CPL,Técnico,580-G,21/06/2017,Junio,O'Higgins,-,-,Hidrometeorológica,Sistema frontal,580-U,28/06/2017,3,Sistema frontal
+CPL,Técnico,608,21/06/2017,Junio,Los Lagos,-,-,Hidrometeorológica,Viento,608-C,23/06/2017,3,Viento
+CPL,Técnico,609,22/06/2017,Junio,Magallanes,-,Cabo de Hornos,Hidrometeorológica,Nevadas,609-A,24/06/2017,1,Nevadas
+CPL,ATR,***,22/06/2017,Junio,Arica y Parinacota,-,Arica,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Arica y Parinacota,-,Camarones,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Tarapacá,-,Huara,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Tarapacá,-,Iquique,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Antofagasta,-,Tocopilla,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Antofagasta,-,Mejillones,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Antofagasta,-,Antofagasta,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Antofagasta,-,Taltal,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Atacama,-,Chañaral,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Atacama,-,Caldera,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Atacama,-,Copiapó,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Atacama,-,Huasco,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Atacama,-,Freirina,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,O'Higgins,-,Navidad,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,O'Higgins,-,Litueche,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,O'Higgins,-,Pichilemu,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,O'Higgins,-,Paredones,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Vichuquén,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Licantén,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Curepto,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Constitución,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Chanco,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Maule,-,Pelluhue,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Cobquecura,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Treguaco,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Coelemu,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Tomé,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Penco,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Talcahuano,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Concepción,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,San Pedro de La Paz,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Coronel,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Lota,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Arauco,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Lebu,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Los Álamos,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Cañete ,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Biobío,-,Tirúa,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,San Juan de la Costa,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Río Negro,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Purranque,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Fresia,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Los Muermos,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Maullin,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+CPL,ATR,***,22/06/2017,Junio,Los Lagos,-,Ancud,Marejadas,Marejadas anormales,***,28/06/2017,1,Marejadas anormales
+VMT,Técnico,610,22/06/2017,Junio,Atacama,-,Diego de Almagro,Hidrometeorológica,Viento,610-A,24/06/2017,1,Viento
+VMT,Técnico,610,22/06/2017,Junio,Atacama,-,Copiapó,Hidrometeorológica,Viento,610-A,24/06/2017,1,Viento
+VMT,Técnico,610,22/06/2017,Junio,Atacama,-,Tierra Amarilla,Hidrometeorológica,Viento,610-A,24/06/2017,1,Viento
+VMT,Técnico,610,22/06/2017,Junio,Atacama,-,Alto del Carmen,Hidrometeorológica,Viento,610-A,24/06/2017,1,Viento
+PTB,Técnico,614,24/06/2017,Junio,Antofagasta,-,-,Hidrometeorológica,Viento,614-C,28/06/2017,3,Viento
+PTB,Técnico,610-A,24/06/2017,Junio,Atacama,-,-,Hidrometeorológica,Sistema frontal,610-F,27/06/2017,3,Sistema frontal
+PTB,Técnico,615,24/06/2017,Junio,Aysén,-,-,Hidrometeorológica,Nevadas,615-A,01/07/2017,3,Nevadas
+PTB,Técnico,606-D,25/06/2017,Junio,Maule,-,-,Hidrometeorológica,Sistema frontal,606-I,28/06/2017,3,Sistema frontal
+PTB,Técnico,610-C,26/06/2017,Junio,Atacama,Copiapó,-,Hidrometeorológica,Sistema frontal,610-F,27/06/2017,2,Sistema frontal
+PTB,Técnico,610-C,26/06/2017,Junio,Atacama,Huasco,-,Hidrometeorológica,Sistema frontal,610-F,27/06/2017,2,Sistema frontal
+PTB,Técnico,620,28/06/2017,Junio,Los Lagos,No value,No value,Hidrometeorológica,Sistema frontal,620-A,29/06/2017,3,Sistema frontal
