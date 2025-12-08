@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Leer el excel y almacenar en un DataFrame
-df = pd.read_excel('inversion_separada_semestres.xlsx')
+df = pd.read_excel('inversion.xlsx')
 
 # Para cada region y año, separar la primera mitad de la cantidad total de datos en semestre 1 y la otra en el 2
 df['Semestre'] = 0  # Inicializar la columna Semestre
